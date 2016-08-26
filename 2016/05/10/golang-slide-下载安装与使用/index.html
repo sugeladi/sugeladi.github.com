@@ -1,0 +1,434 @@
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta property="wb:webmaster" content="c4677ec1063a75fb" />
+  
+  <title>golang .slide 下载安装与使用 | 苏格拉没有底</title>
+  <meta name="author" content="star">
+  
+  <meta name="description" content="golang | java | angularjs">
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <meta property="og:title" content="golang .slide 下载安装与使用"/>
+  <meta property="og:site_name" content="苏格拉没有底"/>
+
+  
+    <meta property="og:image" content="undefined"/>
+  
+
+  <link href="/favicon.ico" rel="icon" type="image/x-ico">
+  <link rel="alternate" href="/atom.xml" title="苏格拉没有底" type="application/atom+xml">
+  <link rel="stylesheet" href="/css/style.css" media="screen" type="text/css">
+  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <script src="//libs.baidu.com/jquery/1.8.0/jquery.min.js"></script>
+</head>
+
+
+<body>
+  <header id="header" class="inner">
+<div class="alignleft">
+  <h1><a href="/">苏格拉没有底</a></h1>
+  <h2><a href="/">应该是个程序员</a></h2>
+</div>
+<nav id="main-nav" class="alignright">
+  <ul>
+    
+      <li><a href="/">首页</a></li>
+    
+      <li><a href="/archives">归档</a></li>
+    
+      <li><a href="/about">关于</a></li>
+    
+<li> <a title="把这个链接拖到你的Chrome收藏夹工具栏中" href='javascript:(function() {
+	function c() {
+		var e = document.createElement("link");
+		e.setAttribute("type", "text/css");
+		e.setAttribute("rel", "stylesheet");
+		e.setAttribute("href", f);
+		e.setAttribute("class", l);
+		document.body.appendChild(e)
+	}
+ 
+	function h() {
+		var e = document.getElementsByClassName(l);
+		for (var t = 0; t < e.length; t++) {
+			document.body.removeChild(e[t])
+		}
+	}
+ 
+	function p() {
+		var e = document.createElement("div");
+		e.setAttribute("class", a);
+		document.body.appendChild(e);
+		setTimeout(function() {
+			document.body.removeChild(e)
+		}, 100)
+	}
+ 
+	function d(e) {
+		return {
+			height : e.offsetHeight,
+			width : e.offsetWidth
+		}
+	}
+ 
+	function v(i) {
+		var s = d(i);
+		return s.height > e && s.height < n && s.width > t && s.width < r
+	}
+ 
+	function m(e) {
+		var t = e;
+		var n = 0;
+		while (!!t) {
+			n += t.offsetTop;
+			t = t.offsetParent
+		}
+		return n
+	}
+ 
+	function g() {
+		var e = document.documentElement;
+		if (!!window.innerWidth) {
+			return window.innerHeight
+		} else if (e && !isNaN(e.clientHeight)) {
+			return e.clientHeight
+		}
+		return 0
+	}
+ 
+	function y() {
+		if (window.pageYOffset) {
+			return window.pageYOffset
+		}
+		return Math.max(document.documentElement.scrollTop, document.body.scrollTop)
+	}
+ 
+	function E(e) {
+		var t = m(e);
+		return t >= w && t <= b + w
+	}
+ 
+	function S() {
+		var e = document.createElement("audio");
+		e.setAttribute("class", l);
+		e.src = i;
+		e.loop = false;
+		e.addEventListener("canplay", function() {
+			setTimeout(function() {
+				x(k)
+			}, 500);
+			setTimeout(function() {
+				N();
+				p();
+				for (var e = 0; e < O.length; e++) {
+					T(O[e])
+				}
+			}, 15500)
+		}, true);
+		e.addEventListener("ended", function() {
+			N();
+			h()
+		}, true);
+		e.innerHTML = " <p>If you are reading this, it is because your browser does not support the audio element. We recommend that you get a new browser.</p> <p>";
+		document.body.appendChild(e);
+		e.play()
+	}
+ 
+	function x(e) {
+		e.className += " " + s + " " + o
+	}
+ 
+	function T(e) {
+		e.className += " " + s + " " + u[Math.floor(Math.random() * u.length)]
+	}
+ 
+	function N() {
+		var e = document.getElementsByClassName(s);
+		var t = new RegExp("\\b" + s + "\\b");
+		for (var n = 0; n < e.length; ) {
+			e[n].className = e[n].className.replace(t, "")
+		}
+	}
+ 
+	var e = 30;
+	var t = 30;
+	var n = 350;
+	var r = 350;
+	var i = "//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake.mp3";
+	var s = "mw-harlem_shake_me";
+	var o = "im_first";
+	var u = ["im_drunk", "im_baked", "im_trippin", "im_blown"];
+	var a = "mw-strobe_light";
+	var f = "//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake-style.css";
+	var l = "mw_added_css";
+	var b = g();
+	var w = y();
+	var C = document.getElementsByTagName("*");
+	var k = null;
+	for (var L = 0; L < C.length; L++) {
+		var A = C[L];
+		if (v(A)) {
+			if (E(A)) {
+				k = A;
+				break
+			}
+		}
+	}
+	if (A === null) {
+		console.warn("Could not find a node of the right size. Please try a different page.");
+		return
+	}
+	c();
+	S();
+	var O = [];
+	for (var L = 0; L < C.length; L++) {
+		var A = C[L];
+		if (v(A)) {
+			O.push(A)
+		}
+	}
+})()    ' style="color:#EE2C2C;font-size: x-large;">High一下</a> </li>
+
+  </ul>
+  <div class="clearfix"></div>
+</nav>
+<div class="clearfix"></div></header>
+  <div id="content" class="inner">
+    <div id="main-col" class="alignleft"><div id="wrapper"><article class="post">
+  
+    <div class="gallery">
+  <div class="photoset">
+    
+      <img src="">
+    
+  </div>
+  <div class="control">
+    <div class="prev"></div>
+    <div class="next"></div>
+  </div>
+</div>
+  
+  <div class="post-content">
+    <header>
+      
+        <div class="icon"></div>
+        <time datetime="2016-05-10T08:37:15.000Z"><a href="/2016/05/10/golang-slide-下载安装与使用/">2016-05-10</a></time>
+      
+      
+  
+    <h1 class="title">golang .slide 下载安装与使用</h1>
+  
+
+    </header>
+    <div class="entry">
+      
+        <ul>
+<li><p>来源</p>
+<p>  参加gopher china 2016的大会,在会上看到 <a href="https://github.com/davecheney" target="_blank" rel="external">Dave</a>大神用go的 slide 来做演讲,觉得好酷,根据<a href="https://www.youtube.com/watch?v=83JBmS8WpHM" target="_blank" rel="external">youtube</a>上的视频,然后自己跟着做了一遍,算是记录一下吧.</p>
+</li>
+<li><p>首先是下载</p>
+<p>  由于GWF( Great FireWall 防火长城,也称中国防火墙 ),导致去go get golang.org/x/tools/cmd/present 下载不下来,这里推荐 <a href="http://www.golangtc.com/download/package" target="_blank" rel="external">golangtc</a>,下载下来之后,放到你自己的gopath下</p>
+</li>
+<li><p>安装 present</p>
+<p>  go install go/src/golang.org/x/tools/cmd/present/ 之后会在gopath的bin目录下多出来一个 present,</p>
+</li>
+<li><p>本地查看</p>
+<p>  有了present就可以查看.slide文件了. 直接在有.slide文件的目录下,输入present,然后访问 <a href="http://127.0.0.1:3999/" target="_blank" rel="external">http://127.0.0.1:3999/</a> 就可以看到啦.</p>
+</li>
+<li><p>编写.slide文件</p>
+<a id="more"></a>
+</li>
+</ul>
+<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ mkdir slide&#10;$ cd slide&#10;$ vi example.slide</span><br></pre></td></tr></table></figure>
+<pre><code>example.slide
+
+<span class="comment"><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#25105;&#30340;&#31532;&#19968;&#20010;Slide//&#26631;&#39064;&#10;&#32451;&#20064;&#19968;&#19979;//&#35299;&#37322;&#35828;&#26126;&#10;10 May 2016//&#26102;&#38388; &#36825;&#37324;&#35201;&#27880;&#24847;&#19968;&#19979;&#26684;&#24335;&#10;&#10;&#33487;&#26684;&#25289;&#27809;&#26377;&#24213;//&#33258;&#24049;&#30340;&#21517;&#31216;&#10;http://star.asottt.com//&#33258;&#24049;&#30340;&#32593;&#31449;&#10;lihexingstar@163.com//&#37038;&#31665;&#10;@star//name&#10;&#10;* Formatting//&#25991;&#26412;&#26684;&#24335;&#10;&#10;Let&#39;s *bold* some text.//&#31895;&#20307;&#20351;&#29992; *&#25105;&#26159;&#31895;&#20307;*&#10;Let&#39;s _italicize_ some text.//&#26012;&#20307;&#20351;&#29992; *&#25105;&#26159;&#26012;&#20307;*&#10;&#10;* Images//&#22270;&#29255;&#10;&#10;.image http://7xk2rp.com1.z0.glb.clouddn.com/2011922123813232.jpg//&#22270;&#29255;&#22806;&#38142;&#10;&#10;* Showing Code//&#23637;&#31034;code(&#35265;&#19968;&#19979; hello.go)&#10;&#10;.code hello.go//&#20840;&#37096;&#23637;&#31034;&#10;&#10;* Showing Partial Code//&#37096;&#20998;&#23637;&#31034;&#10;&#10;.code hello.go /show A type/,/end show A type/&#10;.code hello.go /start main OMIT/,/end main OMIT/&#10;.code hello.go /^func printStr/,/&#125;/&#10;&#10;* Running code//&#36816;&#34892;&#20195;&#30721;&#10;&#10;.play hello.go /start main OMIT/,/end main OMIT/      //.play&#36816;&#34892;&#10;&#10;* Bullet Points//&#21015;&#34920;&#10;- bullet point 1&#10;- bullet point 2&#10;- bullet point 3</span><br></pre></td></tr></table></figure></span>
+
+
+hello.go
+
+<span class="comment"><figure class="highlight golang"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> <span class="string">"fmt"</span></span><br><span class="line"></span><br><span class="line"><span class="comment">//show A type OMIT</span></span><br><span class="line"><span class="keyword">type</span> A <span class="keyword">struct</span>&#123;</span><br><span class="line">    name <span class="typename">string</span></span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//end show A type OMIT</span></span><br><span class="line"></span><br><span class="line"><span class="comment">//start main OMIT</span></span><br><span class="line"><span class="keyword">func</span> main()&#123;</span><br><span class="line">    fmt.Println(<span class="string">"hello world. sugeladi"</span>)</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//end main OMIT</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">func</span> printStr(s <span class="typename">string</span>)&#123;</span><br><span class="line">    fmt.Println(s) <span class="comment">// HL</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></span>
+</code></pre><ul>
+<li><p>外链放到go-talks(go开发者使用,第三方服务)和talks.godoc.org(golang官方服务) 需fanqiang看.</p>
+<p>  你把自己编写的.slide文件放到github上,然后编写README</p>
+  <figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#10;[go-talks](http://go-talks.appspot.com/github.com/sugeladi/slide/example.slide#1)&#10;&#10;[golang](http://talks.godoc.org/github.com/sugeladi/slide/example.slide)</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>效果如下:<br>  <a href="http://go-talks.appspot.com/github.com/sugeladi/slide/example.slide#1" target="_blank" rel="external">go-talks</a></p>
+<p>  <a href="http://talks.godoc.org/github.com/sugeladi/slide/example.slide" target="_blank" rel="external">golang</a></p>
+<p>  <a href="http://go-talks.appspot.com/github.com/sugeladi/slide/kibana.slide#1" target="_blank" rel="external">kibana-go-talks</a></p>
+<p>  <a href="http://talks.godoc.org/github.com/sugeladi/slide/kibana.slide" target="_blank" rel="external">kibana-golang(推荐使用)</a></p>
+</li>
+</ul>
+
+      
+    </div>
+    <footer>
+      
+        
+  
+  <div class="categories">
+    <a href="/categories/golang/">golang</a>
+  </div>
+
+        
+  
+  <div class="tags">
+    <a href="/tags/golang/">golang</a>
+  </div>
+
+<!-- Baidu Button BEGIN -->
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"5","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","weixin","renren","tqq"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","weixin","renren","tqq"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<!-- Baidu Button END -->      
+      <div class="clearfix"></div>
+    </footer>
+  </div>
+</article>
+
+
+
+ <nav id="pagination" >
+    
+    <a href="/2016/08/26/iphone-忘记锁屏密码后z如果找回密码/" class="alignleft prev" >上一页</a>
+    
+    
+    <a href="/2016/05/06/禁止ios的浏览器将连续数字识别为号码/" class="alignright next" >下一页</a>
+    
+    <div class="clearfix"></div>
+</nav>
+
+
+
+<section id="comment">
+
+<!-- Duoshuo Comment BEGIN -->
+	<div class="ds-thread"></div>
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"gostar"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = 'http://static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0]
+		|| document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- Duoshuo Comment END -->
+
+
+</section>
+
+</div></div>
+    <aside id="sidebar" class="alignright">
+  <div class="search">
+  <form action="//google.com/search" method="get" accept-charset="utf-8">
+    <input type="search" name="q" results="0" placeholder="搜索">
+  </form>
+</div>
+
+  
+<div class="widget tag">
+  <h3 class="title">分类</h3>
+  <ul class="entry">
+  
+    <li><a href="/categories/ELK/">ELK</a><small>1</small></li>
+  
+    <li><a href="/categories/golang/">golang</a><small>6</small></li>
+  
+    <li><a href="/categories/hexo/">hexo</a><small>1</small></li>
+  
+    <li><a href="/categories/html/">html</a><small>1</small></li>
+  
+    <li><a href="/categories/http/">http</a><small>1</small></li>
+  
+    <li><a href="/categories/mongodb/">mongodb</a><small>1</small></li>
+  
+    <li><a href="/categories/protobuf/">protobuf</a><small>1</small></li>
+  
+    <li><a href="/categories/生活/">生活</a><small>1</small></li>
+  
+  </ul>
+</div>
+
+
+  <div class="widget tag">
+<h3 class="title">联系我</h3>
+<ul class="entry">
+<li>email:lihexingstar@163.com</li>
+</ul>
+</div>
+
+
+  <iframe width="100%" height="550" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=1&ptype=1&speed=0&skin=2&isTitle=1&noborder=1&isWeibo=1&isFans=0&uid=2156512357&verifier=13d43368&dpc=1"></iframe>
+
+  <script type="text/javascript" src="//ra.revolvermaps.com/0/0/8.js?i=0fsl3ipkwdn&amp;m=8&amp;s=220&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+</aside>
+    <div class="clearfix"></div>
+  </div>
+  <footer id="footer" class="inner"><section>
+Theme of <a href="https://github.com/zippera/lightum">Lightum</a>
+<span id="busuanzi_container_site_pv">
+  本站总访问量<span id="busuanzi_value_site_pv"></span>次
+</span>
+</section>
+<div class="clearfix"></div>
+<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+</footer>
+  <script src="//libs.baidu.com/jquery/2.0.3/jquery.min.js"></script>
+<script src="/js/jquery.imagesloaded.min.js"></script>
+<script src="/js/gallery.js"></script>
+
+
+
+
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+  $('.fancybox').fancybox();
+})(jQuery);
+</script>
+
+
+<!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+</script>
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</body>
+</html>
+
+
+<a href="https://github.com/sugeladi"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/567c3a48d796e2fc06ea80409cc9dd82bf714434/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png"></a>

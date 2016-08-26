@@ -1,0 +1,550 @@
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta property="wb:webmaster" content="c4677ec1063a75fb" />
+  
+  <title>ELK 学习笔记(从零开始) | 苏格拉没有底</title>
+  <meta name="author" content="star">
+  
+  <meta name="description" content="golang | java | angularjs">
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <meta property="og:title" content="ELK 学习笔记(从零开始)"/>
+  <meta property="og:site_name" content="苏格拉没有底"/>
+
+  
+    <meta property="og:image" content="undefined"/>
+  
+
+  <link href="/favicon.ico" rel="icon" type="image/x-ico">
+  <link rel="alternate" href="/atom.xml" title="苏格拉没有底" type="application/atom+xml">
+  <link rel="stylesheet" href="/css/style.css" media="screen" type="text/css">
+  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <script src="//libs.baidu.com/jquery/1.8.0/jquery.min.js"></script>
+</head>
+
+
+<body>
+  <header id="header" class="inner">
+<div class="alignleft">
+  <h1><a href="/">苏格拉没有底</a></h1>
+  <h2><a href="/">应该是个程序员</a></h2>
+</div>
+<nav id="main-nav" class="alignright">
+  <ul>
+    
+      <li><a href="/">首页</a></li>
+    
+      <li><a href="/archives">归档</a></li>
+    
+      <li><a href="/about">关于</a></li>
+    
+<li> <a title="把这个链接拖到你的Chrome收藏夹工具栏中" href='javascript:(function() {
+	function c() {
+		var e = document.createElement("link");
+		e.setAttribute("type", "text/css");
+		e.setAttribute("rel", "stylesheet");
+		e.setAttribute("href", f);
+		e.setAttribute("class", l);
+		document.body.appendChild(e)
+	}
+ 
+	function h() {
+		var e = document.getElementsByClassName(l);
+		for (var t = 0; t < e.length; t++) {
+			document.body.removeChild(e[t])
+		}
+	}
+ 
+	function p() {
+		var e = document.createElement("div");
+		e.setAttribute("class", a);
+		document.body.appendChild(e);
+		setTimeout(function() {
+			document.body.removeChild(e)
+		}, 100)
+	}
+ 
+	function d(e) {
+		return {
+			height : e.offsetHeight,
+			width : e.offsetWidth
+		}
+	}
+ 
+	function v(i) {
+		var s = d(i);
+		return s.height > e && s.height < n && s.width > t && s.width < r
+	}
+ 
+	function m(e) {
+		var t = e;
+		var n = 0;
+		while (!!t) {
+			n += t.offsetTop;
+			t = t.offsetParent
+		}
+		return n
+	}
+ 
+	function g() {
+		var e = document.documentElement;
+		if (!!window.innerWidth) {
+			return window.innerHeight
+		} else if (e && !isNaN(e.clientHeight)) {
+			return e.clientHeight
+		}
+		return 0
+	}
+ 
+	function y() {
+		if (window.pageYOffset) {
+			return window.pageYOffset
+		}
+		return Math.max(document.documentElement.scrollTop, document.body.scrollTop)
+	}
+ 
+	function E(e) {
+		var t = m(e);
+		return t >= w && t <= b + w
+	}
+ 
+	function S() {
+		var e = document.createElement("audio");
+		e.setAttribute("class", l);
+		e.src = i;
+		e.loop = false;
+		e.addEventListener("canplay", function() {
+			setTimeout(function() {
+				x(k)
+			}, 500);
+			setTimeout(function() {
+				N();
+				p();
+				for (var e = 0; e < O.length; e++) {
+					T(O[e])
+				}
+			}, 15500)
+		}, true);
+		e.addEventListener("ended", function() {
+			N();
+			h()
+		}, true);
+		e.innerHTML = " <p>If you are reading this, it is because your browser does not support the audio element. We recommend that you get a new browser.</p> <p>";
+		document.body.appendChild(e);
+		e.play()
+	}
+ 
+	function x(e) {
+		e.className += " " + s + " " + o
+	}
+ 
+	function T(e) {
+		e.className += " " + s + " " + u[Math.floor(Math.random() * u.length)]
+	}
+ 
+	function N() {
+		var e = document.getElementsByClassName(s);
+		var t = new RegExp("\\b" + s + "\\b");
+		for (var n = 0; n < e.length; ) {
+			e[n].className = e[n].className.replace(t, "")
+		}
+	}
+ 
+	var e = 30;
+	var t = 30;
+	var n = 350;
+	var r = 350;
+	var i = "//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake.mp3";
+	var s = "mw-harlem_shake_me";
+	var o = "im_first";
+	var u = ["im_drunk", "im_baked", "im_trippin", "im_blown"];
+	var a = "mw-strobe_light";
+	var f = "//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake-style.css";
+	var l = "mw_added_css";
+	var b = g();
+	var w = y();
+	var C = document.getElementsByTagName("*");
+	var k = null;
+	for (var L = 0; L < C.length; L++) {
+		var A = C[L];
+		if (v(A)) {
+			if (E(A)) {
+				k = A;
+				break
+			}
+		}
+	}
+	if (A === null) {
+		console.warn("Could not find a node of the right size. Please try a different page.");
+		return
+	}
+	c();
+	S();
+	var O = [];
+	for (var L = 0; L < C.length; L++) {
+		var A = C[L];
+		if (v(A)) {
+			O.push(A)
+		}
+	}
+})()    ' style="color:#EE2C2C;font-size: x-large;">High一下</a> </li>
+
+  </ul>
+  <div class="clearfix"></div>
+</nav>
+<div class="clearfix"></div></header>
+  <div id="content" class="inner">
+    <div id="main-col" class="alignleft"><div id="wrapper"><article class="post">
+  
+    <div class="gallery">
+  <div class="photoset">
+    
+      <img src="">
+    
+  </div>
+  <div class="control">
+    <div class="prev"></div>
+    <div class="next"></div>
+  </div>
+</div>
+  
+  <div class="post-content">
+    <header>
+      
+        <div class="icon"></div>
+        <time datetime="2016-04-22T09:56:08.000Z"><a href="/2016/04/22/ELK-学习笔记-从零开始/">2016-04-22</a></time>
+      
+      
+  
+    <h1 class="title">ELK 学习笔记(从零开始)</h1>
+  
+
+    </header>
+    <div class="entry">
+      
+        <ul>
+<li>一句话介绍<ul>
+<li>Logstash是一个接收，处理，转发日志的工具</li>
+<li>elasticsearch是基于lucene的开源搜索引擎(实时的全文索引),一个实时分布式搜索和分析引擎</li>
+<li>kibana 是根据elastic search 数据可视化，丰富功能，支持点选</li>
+</ul>
+</li>
+<li><p>版本号</p>
+<ul>
+<li>elasticsearch 版本 2.3.1</li>
+<li>logstash 版本 2.3.1</li>
+<li>kibana 版本 4.5.0</li>
+</ul>
+</li>
+<li>文档资料<ul>
+<li>官网 <a href="https://www.elastic.co" target="_blank" rel="external">https://www.elastic.co</a><br><img src="http://7xk2rp.com1.z0.glb.clouddn.com/Snip20160422_1.png" alt=""><a id="more"></a></li>
+<li>Logstash 最佳实践 <a href="http://udn.yyuap.com/doc/logstash-best-practice-cn/index.html" target="_blank" rel="external">http://udn.yyuap.com/doc/logstash-best-practice-cn/index.html</a></li>
+<li>Elasticsearch 权威指南  <a href="http://www.learnes.net/index.html" target="_blank" rel="external">http://www.learnes.net/index.html</a></li>
+<li>ELKstack 中文指南 <a href="http://kibana.logstash.es/content/" target="_blank" rel="external">http://kibana.logstash.es/content/</a></li>
+</ul>
+</li>
+<li>先用apt-get安装jdk logstash需要<ul>
+<li>sudo apt-get update</li>
+<li>sudo apt-get install openjdk-7-jdk</li>
+<li>设置java环境变量 sudo vi .bashrc 添加以下<ul>
+<li>export JAVA_HOME=/usr/local/java/jdk1.8.0_45</li>
+<li>export PATH=$PATH:$JAVA_HOME/bin</li>
+<li>exportCLASSPATH=.:$JAVA_HOME/lib/tools.jar:$JAVA_HOME/lib/dt.jar:$CLASSPATH</li>
+<li>source .bashrc</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>下载elasticsearch 版本 2.3.1</p>
+<ul>
+<li>wget <a href="https://download.elastic.co/elasticsearch/release/org/elasticsearch/distribution/tar/elasticsearch/2.3.1/elasticsearch-2.3.1.tar.gz" target="_blank" rel="external">https://download.elastic.co/elasticsearch/release/org/elasticsearch/distribution/tar/elasticsearch/2.3.1/elasticsearch-2.3.1.tar.gz</a></li>
+<li>解压 tar zxf elasticsearch-2.3.1.tar.gz -C /usr/local</li>
+<li>修改配置文件 /config/elasticsearch.yml  Network下 network.host 192.168.0.240 （测试服务器为 0.0.0.0） 也可以不设置，设置的原因是想在外网通过es的插件查看一些信息</li>
+<li>bin/elasticsearch -Des.insecure.allow.root=true (解决root不能启动)</li>
+<li>启动 elasticsearch 进入 elastic search 目录 ./bin/elasticsearch -d （-d 参数 在后台运行）</li>
+<li>可以用 curl ‘<a href="http://localhost:9200/_search?pretty" target="_blank" rel="external">http://localhost:9200/_search?pretty</a>‘ 来查看</li>
+</ul>
+</li>
+<li><p>下载logstash 版本 2.3.1</p>
+<ul>
+<li>wget <a href="https://download.elastic.co/logstash/logstash/logstash-2.3.1.tar.gz" target="_blank" rel="external">https://download.elastic.co/logstash/logstash/logstash-2.3.1.tar.gz</a></li>
+<li>解压 tar zxf logstash-2.3.1.tar.gz -C /usr/local</li>
+<li>执行 /usr/local/logstash-2.3.1/bin/logstash -e ‘input { stdin { } } output { stdout {} }’  这是你输入什么，控制台就会有格式的显示什么</li>
+<li>使用agent -f , 编写文件 logstash-simple.conf  内容为 input { stdin { } } output { stdout {} }</li>
+<li>/usr/local/logstash-2.3.1/bin/logstash agent -f logstash-simple.conf</li>
+<li>nohup ./bin/logstash -f logstash-nginx-file.conf &amp; 在后台启动</li>
+</ul>
+</li>
+<li>下载kibana 版本 4.5.0<ul>
+<li>wget <a href="https://download.elastic.co/kibana/kibana/kibana-4.5.0-linux-x64.tar.gz" target="_blank" rel="external">https://download.elastic.co/kibana/kibana/kibana-4.5.0-linux-x64.tar.gz</a></li>
+<li>解压 tar zxf kibana-4.5.0-linux-x64.tar.gz -C /usr/local</li>
+<li>修改配置文件 /config/kibana.yml 指定 elasticsearch.url</li>
+<li>启动 进入 kibana-4.5.0-linux-x64.tar.gz目录 ./bin/kibana 在后台运行  用 honup ./bin/kibana &amp;</li>
+<li>kibana是nodejs开发的，本身并没有任何安全限制，直接浏览url就能访问，如果公网环境非常不安全，可以通过nginx请求转发增加认证</li>
+<li>kibana没有重启命令，要重启，只能ps -ef|grep node 查找nodejs进程，干掉重来。</li>
+<li>添加auth认证<ul>
+<li>配置nginx配置文件 vi /etc/nginx/sites-available/default 添加 auth_basic auth_basic_user_file<ul>
+<li>upstream kibana {</li>
+<li>server 127.0.0.1:5601;</li>
+<li>}</li>
+<li>server{</li>
+<li>listen    80;</li>
+<li>server_name kibanabeta.occall.com;</li>
+<li>auth_basic “Restricted Access”;</li>
+<li>auth_basic_user_file /etc/nginx/htpasswd.users;</li>
+<li>location / {</li>
+<li>proxy_pass_header Server;</li>
+<li>proxy_set_header Host $http_host;</li>
+<li>proxy_redirect off;</li>
+<li>proxy_set_header X-Real-IP $remote_addr;</li>
+<li>proxy_set_header X-Scheme $scheme;</li>
+<li>proxy_pass <a href="http://kibana" target="_blank" rel="external">http://kibana</a>;</li>
+<li>}</li>
+<li>}</li>
+</ul>
+</li>
+<li>使用apt-get install apache2-utils</li>
+<li>htpasswd -c /etc/nginx/htpasswd.users kadmin 输入后，会让你输入密码</li>
+<li>重启nginx service nginx restart   </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p> 安装结束，开始配置！</p>
+<ul>
+<li><p>结合 logstash 和 elasticsearch   监控文件</p>
+<ul>
+<li>先启动elasticsearch</li>
+<li>编写logstash文件logstash-es-simple.conf   input { stdin { } } output { elasticsearch {hosts=&gt; “localhost”} stdout {} }</li>
+<li>启动logstash /usr/local/logstash-2.3.1/bin/logstash agent -f logstash-es-simple.conf</li>
+<li>这是你在控制台输入的东西 会 有规则的显示在控制台 同时会写入到 elasticsearch中</li>
+<li>查看elasticsearch， curl ‘<a href="http://localhost:9200/_search?pretty" target="_blank" rel="external">http://localhost:9200/_search?pretty</a>‘ 会发现刚写入的内容会在response中</li>
+<li>logstash 跟踪文件 mvoice的日志 input { file { path =&gt; “/path/to/logstash-tutorial.log”  start_position =&gt; beginning   ignore_older =&gt; 0 }}</li>
+<li>跟踪mvoice的日志文件 input {  file { path =&gt; “/home/gin/nohup.out” start_position =&gt; beginning ignore_older =&gt;0 } } output { elasticsearch {hosts=&gt; “localhost”} stdout { codec=&gt; rubydebug} }</li>
+<li>start_position 仅在该文件从未被监听过的时候起作用。如果 sincedb 文件中已经有这个文件的 inode 记录了，那么 logstash 依然会从记录过的 pos 开始读取数据。所以重复测试的时候每回需要删除 sincedb 文件(官方博客上提供了另一个巧妙的思路：将 sincedb_path 定义为 /dev/null，则每次重启自动从头开始读)。</li>
+<li><p>logstash 读取nginx的access.log 需要nginx的日志文件 相匹配 (这里的date解析的时候，遇到一个坑（低级错误），HH我写成了hh，所以会一直报一个警告 {:timestamp=&gt;”2016-04-22T16:54:57.527000+0800”, :message=&gt;”Failed parsing date from field”, :field=&gt;”time_local”, :value=&gt;”22/Apr/2016:16:54:56 +0800”, :exception=&gt;”Cannot parse \”22/Apr/2016:16:54:56 +0800\”: Value 16 for clockhourOfHalfday must be in the range [1,12]”, :config_parsers=&gt;”dd/MMM/yyyy:hh:mm:ss Z”, :config_locale=&gt;”en”, :level=&gt;:warn})       直接看到信息 16 for clockhourOfHalfday must be in the range [1,12]</p>
+   <figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">filter&#123;&#10;        ruby &#123;&#10;        init =&#62; &#34;@kname = [&#39;remote_addr&#39;,&#39;remote_user&#39;,&#39;time_local&#39;,&#39;request&#39;,&#39;status&#39;,&#39;body_bytes_sent&#39;,&#39;request_time&#39;,&#39;upstream_response_time&#39;,&#39;http_referer&#39;,&#39;http_user_agent&#39;,&#39;http_x_forwarded_for&#39;]&#34;&#10;        code =&#62; &#34;event.append(Hash[@kname.zip(event[&#39;message&#39;].split(&#39; | &#39;))])&#34;&#10;    &#125;&#10;    if [request] &#123;&#10;        ruby &#123;&#10;            init =&#62; &#34;@kname = [&#39;method&#39;,&#39;uri&#39;,&#39;verb&#39;]&#34;&#10;            code =&#62; &#34;event.append(Hash[@kname.zip(event[&#39;request&#39;].split(&#39; &#39;))])&#34;&#10;        &#125;&#10;     &#125;&#10;     mutate &#123;&#10;        convert =&#62; [&#10;            &#34;body_bytes_sent&#34; , &#34;integer&#34;,&#10;            &#34;upstream_response_time&#34;, &#34;float&#34;,&#10;            &#34;request_time&#34;, &#34;float&#34;&#10;        ]&#10;    &#125;&#10;    date &#123;&#10;        match =&#62; [ &#34;time_local&#34;, &#34;dd/MMM/yyyy:HH:mm:ss Z&#34; ]&#10;        locale =&#62; &#34;en&#34;&#10;    &#125;&#10;    geoip &#123;&#10;           source =&#62; &#34;remote_addr&#34;&#10;     &#125;&#10;&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>grok <a href="http://grokdebug.herokuapp.com" target="_blank" rel="external">http://grokdebug.herokuapp.com</a>  在线调试网址</p>
+</li>
+<li>gsup ：替换 支持正则，为了保证uri为统一，即 可统计数据，将bsonId 和 uId 去除，需要在gsup中添加响应的正则。  <figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mutate &#123;&#10;        convert =&#62; [&#10;            &#34;body_bytes_sent&#34; , &#34;integer&#34;,&#10;            &#34;upstream_response_time&#34;, &#34;float&#34;,&#10;            &#34;request_time&#34;, &#34;float&#34;&#10;        ]&#10;        gsub =&#62; [&#34;uri&#34;,&#34;[0-9a-z]&#123;24&#125;&#8221;,&#34;bsonid&#34;]&#10;        gsub =&#62; [&#34;uri&#34;,&#34;\d&#123;6,&#125;&#8221;,&#34;uid&#34;]&#10;        gsub =&#62; [&#34;uri&#34;,&#34;\d+x\d+&#34;,&#34;wh&#34;]&#10;        gsub =&#62; [&#34;uri&#34;,&#34;\?.+&#34;,&#34;&#34;]&#10;    &#125;</span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+</li>
+<li><p>logstash 创建多个conf 并保存到多个类型index</p>
+<ul>
+<li>logstash 还提供一个方便我们规划和书写配置的小功能。你可以直接用 bin/logstash -f /etc/logstash.d/ 来运行。logstash 会自动读取 /etc/logstash.d/ 目录下所有 *.conf 的文本文件，然后在自己内存里拼接成一个完整的大配置文件，再去执行。</li>
+<li>Logstash 在有多个 conf 文件的情况下，进入 ES 的数据会重复，几个 conf 数据就会重复几次。其实问题原因在之前启动参数章节有提过，output 段顺序执行，没有对日志 type 进行判断的各插件配置都会全部执行一次。在 output 段对 type 进行判断的语法如下所示:  <figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"> output &#123;&#10;    if [type] == &#34;nginxaccess&#34; &#123;&#10;      elasticsearch &#123; &#125;&#10;    &#125;&#10;&#125;</span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+</li>
+<li><p>安装elasticsearch 插件 Elasticsearch-kopf 插件可以查询 Elasticsearch 中的数据</p>
+<ul>
+<li>在elasticsearch目录下 ./bin/plugin install lmenezes/elasticsearch-kopf</li>
+<li>安装完成后在 plugins 目录下可以看到 kopf</li>
+<li>访问 <a href="http://localhost:9200/_plugin/kopf" target="_blank" rel="external">http://localhost:9200/_plugin/kopf</a> 需要开启端口号</li>
+<li>修改配置文件 /config/elasticsearch.yml 其中 network.host 启动的IP(参考 4.3)</li>
+<li>修改配置文件 /config/elasticsearch.yml 开启script 脚本(这样就可以愉快的使用 update += 了 ) 即 8.11</li>
+</ul>
+</li>
+<li><p>elastic 通过 HTTP 向 RESTful API 传送 json</p>
+<ul>
+<li>相应的 HTTP 请求方法 或者 变量 : GET, POST, PUT, HEAD 或者 DELETE</li>
+<li>创建一个index  curl -XPUT ‘localhost:9200/customer?pretty’</li>
+<li>查看所有index  curl ‘localhost:9200/_cat/indices?v’</li>
+<li>向type中插入一条数据 curl -XPUT elk.occall:9200/hxindex/user/2 -d ‘{“name”:”hx02”,”age”:26}’</li>
+<li>向type中插入一条数据 不指定id  curl -XPOST elk.occall:9200/hxindex/user -d ‘{“name”:”hx03”,”age”:26}’</li>
+<li>查询数据 curl -XGET elk.occall:9200/hxindex/user/1?pretty</li>
+<li>删除文档一条数据 curl -XDELETE elk.occall:9200/hxindex/user/1?pretty</li>
+<li>修改数据 同插入，如果有就是修改，没有就是插入</li>
+<li>修改某个字段 curl -XPOST elk.occall:9200/hxindex/user/2/_update?pretty -d ‘{“doc”:{“name”:”hxx02”}}’</li>
+<li>添加一个字段 curl -XPOST elk.occall:9200/hxindex/user/2/_update?pretty -d ‘{“doc”:{“name”:”hxx02”,”address”:”BJ”}}’</li>
+<li>使用脚本 curl -XPOST elk.occall:9200/hxindex/user/2/_update?pretty -d ‘{“script”:{“age”:”cx._source.age+=5”}}’</li>
+</ul>
+</li>
+<li><p>额外的话</p>
+<ul>
+<li><p>LogStash 的性能，是最让新人迷惑的地方。因为 LogStash 本身并不维护队列，所以整个日志流转中任意环节的问题，都可能看起来像是 LogStash 的问题。这里，需要熟练使用本节说的测试方法，针对自己的每一段配置，都确定其性能。另一方面，就是本书之前提到过的，LogStash 给自己的线程都设置了单独的线程名称，你可以在 top -H 结果中查看具体线程的负载情况。</p>
+</li>
+<li><p>Elasticsearch 的性能。这里最需要强调的是：Elasticsearch 是一个分布式系统。从来没有分布式系统要跟人比较单机处理能力的说法。所以，更需要关注的是：在确定的单机处理能力的前提下，性能是否能做到线性扩展。当然，这不意味着说提高处理能力只能靠加机器了——有效利用 mapping API 是非常重要的。不过暂时就在这里讲述了。</p>
+</li>
+<li><p>Kibana 的性能。通常来说，Kibana 只是一个单页 Web 应用，只需要 nginx 发布静态文件即可，没什么性能问题。页面加载缓慢，基本上是因为 Elasticsearch 的请求响应时间本身不够快导致的。不过一定要细究的话，也能找出点 Kibana 本身性能相关的话题：因为 Kibana3 默认是连接固定的一个 ES 节点的 IP 端口的，所以这里会涉及一个浏览器的同一 IP 并发连接数的限制。其次，就是 Kibana 用的 AngularJS 使用了 Promise.then 的方式来处理 HTTP 请求响应。这是异步的。</p>
+</li>
+</ul>
+</li>
+</ul>
+
+      
+    </div>
+    <footer>
+      
+        
+  
+  <div class="categories">
+    <a href="/categories/ELK/">ELK</a>
+  </div>
+
+        
+  
+  <div class="tags">
+    <a href="/tags/ELK/">ELK</a>
+  </div>
+
+<!-- Baidu Button BEGIN -->
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"5","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","weixin","renren","tqq"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","weixin","renren","tqq"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<!-- Baidu Button END -->      
+      <div class="clearfix"></div>
+    </footer>
+  </div>
+</article>
+
+
+
+ <nav id="pagination" >
+    
+    <a href="/2016/05/06/禁止ios的浏览器将连续数字识别为号码/" class="alignleft prev" >上一页</a>
+    
+    
+    <a href="/2016/04/06/golang-slice-copy一个小坑/" class="alignright next" >下一页</a>
+    
+    <div class="clearfix"></div>
+</nav>
+
+
+
+<section id="comment">
+
+<!-- Duoshuo Comment BEGIN -->
+	<div class="ds-thread"></div>
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"gostar"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = 'http://static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0]
+		|| document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- Duoshuo Comment END -->
+
+
+</section>
+
+</div></div>
+    <aside id="sidebar" class="alignright">
+  <div class="search">
+  <form action="//google.com/search" method="get" accept-charset="utf-8">
+    <input type="search" name="q" results="0" placeholder="搜索">
+  </form>
+</div>
+
+  
+<div class="widget tag">
+  <h3 class="title">分类</h3>
+  <ul class="entry">
+  
+    <li><a href="/categories/ELK/">ELK</a><small>1</small></li>
+  
+    <li><a href="/categories/golang/">golang</a><small>6</small></li>
+  
+    <li><a href="/categories/hexo/">hexo</a><small>1</small></li>
+  
+    <li><a href="/categories/html/">html</a><small>1</small></li>
+  
+    <li><a href="/categories/http/">http</a><small>1</small></li>
+  
+    <li><a href="/categories/mongodb/">mongodb</a><small>1</small></li>
+  
+    <li><a href="/categories/protobuf/">protobuf</a><small>1</small></li>
+  
+    <li><a href="/categories/生活/">生活</a><small>1</small></li>
+  
+  </ul>
+</div>
+
+
+  <div class="widget tag">
+<h3 class="title">联系我</h3>
+<ul class="entry">
+<li>email:lihexingstar@163.com</li>
+</ul>
+</div>
+
+
+  <iframe width="100%" height="550" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=1&ptype=1&speed=0&skin=2&isTitle=1&noborder=1&isWeibo=1&isFans=0&uid=2156512357&verifier=13d43368&dpc=1"></iframe>
+
+  <script type="text/javascript" src="//ra.revolvermaps.com/0/0/8.js?i=0fsl3ipkwdn&amp;m=8&amp;s=220&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+</aside>
+    <div class="clearfix"></div>
+  </div>
+  <footer id="footer" class="inner"><section>
+Theme of <a href="https://github.com/zippera/lightum">Lightum</a>
+<span id="busuanzi_container_site_pv">
+  本站总访问量<span id="busuanzi_value_site_pv"></span>次
+</span>
+</section>
+<div class="clearfix"></div>
+<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+</footer>
+  <script src="//libs.baidu.com/jquery/2.0.3/jquery.min.js"></script>
+<script src="/js/jquery.imagesloaded.min.js"></script>
+<script src="/js/gallery.js"></script>
+
+
+
+
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+  $('.fancybox').fancybox();
+})(jQuery);
+</script>
+
+
+<!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+</script>
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</body>
+</html>
+
+
+<a href="https://github.com/sugeladi"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/567c3a48d796e2fc06ea80409cc9dd82bf714434/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png"></a>

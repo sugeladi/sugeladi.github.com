@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[苏格拉没有底]]></title>
+  <subtitle><![CDATA[应该是个程序员]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://sugeladi.github.io/"/>
+  <updated>2016-08-26T08:59:20.000Z</updated>
+  <id>http://sugeladi.github.io/</id>
+  
+  <author>
+    <name><![CDATA[star]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[iphone 忘记锁屏密码后z如果找回密码]]></title>
+    <link href="http://sugeladi.github.io/2016/08/26/iphone-%E5%BF%98%E8%AE%B0%E9%94%81%E5%B1%8F%E5%AF%86%E7%A0%81%E5%90%8Ez%E5%A6%82%E6%9E%9C%E6%89%BE%E5%9B%9E%E5%AF%86%E7%A0%81/"/>
+    <id>http://sugeladi.github.io/2016/08/26/iphone-忘记锁屏密码后z如果找回密码/</id>
+    <published>2016-08-26T08:31:04.000Z</published>
+    <updated>2016-08-26T08:59:20.000Z</updated>
+    <content type="html"><![CDATA[<h5 id="今天手机(iphone_5s)的锁屏密码,不知什么原因被换掉了,然后在豆瓣上找到一个妹子的写的文章,在文章的帮助下,成功重置了密码-附上豆瓣地址">今天手机(iphone 5s)的锁屏密码,不知什么原因被换掉了,然后在豆瓣上找到一个妹子的写的文章,在文章的帮助下,成功重置了密码.附上<a href="https://www.douban.com/note/328377480/" target="_blank" rel="external">豆瓣地址</a></h5><h2 id="前提">前提</h2><ul>
+<li><h3 id="有一台除去iphone的苹果设备">有一台除去iphone的苹果设备</h3></li>
+<li><h3 id="手机开启了查找我的iPhone">手机开启了查找我的iPhone</h3></li>
+<li><h3 id="AppleID和密码（锁屏密码忘记也就罢了，Apple_ID的密码再忘了那可就真的要去验验脑了，除非这手机不是你本人的）">AppleID和密码（锁屏密码忘记也就罢了，Apple ID的密码再忘了那可就真的要去验验脑了，除非这手机不是你本人的）</h3></li>
+</ul>
+<h2 id="攻略">攻略</h2><a id="more"></a>
+<h3 id="1-先去找一台有iTunes的电脑，将手机连接上，然后备份手机到电脑上">1.先去找一台有iTunes的电脑，将手机连接上，然后备份手机到电脑上</h3><h3 id="2-备份完成后，登录icloud,输入账号密码，点击查找我的iPhone">2.备份完成后，登录<a href="https://www.icloud.com" target="_blank" rel="external">icloud</a>,输入账号密码，点击查找我的iPhone</h3><h3 id="3-选择_抹掉iPhone_(对就是抹掉，点下去，不要犹豫)">3.选择 抹掉iPhone (对就是抹掉，点下去，不要犹豫)</h3><h3 id="4-抹掉完成后就是白苹果啦，然后就是各种设置">4.抹掉完成后就是白苹果啦，然后就是各种设置</h3><h3 id="5-关键的一步：来到iCloud步骤，这一步就是找回你之前安装的APP，选择从iTunes恢复，这里的照片、短信、APP都还在-">5.关键的一步：来到iCloud步骤，这一步就是找回你之前安装的APP，选择从iTunes恢复，这里的照片、短信、APP都还在.</h3><p><img src="http://o6yi53w5j.bkt.clouddn.com/945F9728-A87E-4560-9A5F-0267CCDC19A6.png" alt="选择iTunes恢复"></p>
+<h3 id="6-然后手机会一个一个的去下载APP">6.然后手机会一个一个的去下载APP</h3><p><img src="http://o6yi53w5j.bkt.clouddn.com/BAD5E9A909C74402C54425D57737D690.png" alt="各个APP都在愉快的下载"></p>
+<h1 id="希望能帮到大家">希望能帮到大家</h1>]]></content>
+    <summary type="html">
+    <![CDATA[<h5 id="今天手机(iphone_5s)的锁屏密码,不知什么原因被换掉了,然后在豆瓣上找到一个妹子的写的文章,在文章的帮助下,成功重置了密码-附上豆瓣地址">今天手机(iphone 5s)的锁屏密码,不知什么原因被换掉了,然后在豆瓣上找到一个妹子的写的文章,在文章的帮助下,成功重置了密码.附上<a href="https://www.douban.com/note/328377480/">豆瓣地址</a></h5><h2 id="前提">前提</h2><ul>
+<li><h3 id="有一台除去iphone的苹果设备">有一台除去iphone的苹果设备</h3></li>
+<li><h3 id="手机开启了查找我的iPhone">手机开启了查找我的iPhone</h3></li>
+<li><h3 id="AppleID和密码（锁屏密码忘记也就罢了，Apple_ID的密码再忘了那可就真的要去验验脑了，除非这手机不是你本人的）">AppleID和密码（锁屏密码忘记也就罢了，Apple ID的密码再忘了那可就真的要去验验脑了，除非这手机不是你本人的）</h3></li>
+</ul>
+<h2 id="攻略">攻略</h2>]]>
+    
+    </summary>
+    
+      <category term="生活" scheme="http://sugeladi.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="生活" scheme="http://sugeladi.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[golang .slide 下载安装与使用]]></title>
+    <link href="http://sugeladi.github.io/2016/05/10/golang-slide-%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
+    <id>http://sugeladi.github.io/2016/05/10/golang-slide-下载安装与使用/</id>
+    <published>2016-05-10T08:37:15.000Z</published>
+    <updated>2016-06-06T05:52:32.000Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li><p>来源</p>
+<p>  参加gopher china 2016的大会,在会上看到 <a href="https://github.com/davecheney" target="_blank" rel="external">Dave</a>大神用go的 slide 来做演讲,觉得好酷,根据<a href="https://www.youtube.com/watch?v=83JBmS8WpHM" target="_blank" rel="external">youtube</a>上的视频,然后自己跟着做了一遍,算是记录一下吧.</p>
+</li>
+<li><p>首先是下载</p>
+<p>  由于GWF( Great FireWall 防火长城,也称中国防火墙 ),导致去go get golang.org/x/tools/cmd/present 下载不下来,这里推荐 <a href="http://www.golangtc.com/download/package" target="_blank" rel="external">golangtc</a>,下载下来之后,放到你自己的gopath下</p>
+</li>
+<li><p>安装 present</p>
+<p>  go install go/src/golang.org/x/tools/cmd/present/ 之后会在gopath的bin目录下多出来一个 present,</p>
+</li>
+<li><p>本地查看</p>
+<p>  有了present就可以查看.slide文件了. 直接在有.slide文件的目录下,输入present,然后访问 <a href="http://127.0.0.1:3999/" target="_blank" rel="external">http://127.0.0.1:3999/</a> 就可以看到啦.</p>
+</li>
+<li><p>编写.slide文件</p>
+<a id="more"></a>
+</li>
+</ul>
+<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ mkdir slide&#10;$ cd slide&#10;$ vi example.slide</span><br></pre></td></tr></table></figure>
+<pre><code>example.slide
+
+<span class="comment"><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#25105;&#30340;&#31532;&#19968;&#20010;Slide//&#26631;&#39064;&#10;&#32451;&#20064;&#19968;&#19979;//&#35299;&#37322;&#35828;&#26126;&#10;10 May 2016//&#26102;&#38388; &#36825;&#37324;&#35201;&#27880;&#24847;&#19968;&#19979;&#26684;&#24335;&#10;&#10;&#33487;&#26684;&#25289;&#27809;&#26377;&#24213;//&#33258;&#24049;&#30340;&#21517;&#31216;&#10;http://star.asottt.com//&#33258;&#24049;&#30340;&#32593;&#31449;&#10;lihexingstar@163.com//&#37038;&#31665;&#10;@star//name&#10;&#10;* Formatting//&#25991;&#26412;&#26684;&#24335;&#10;&#10;Let&#39;s *bold* some text.//&#31895;&#20307;&#20351;&#29992; *&#25105;&#26159;&#31895;&#20307;*&#10;Let&#39;s _italicize_ some text.//&#26012;&#20307;&#20351;&#29992; *&#25105;&#26159;&#26012;&#20307;*&#10;&#10;* Images//&#22270;&#29255;&#10;&#10;.image http://7xk2rp.com1.z0.glb.clouddn.com/2011922123813232.jpg//&#22270;&#29255;&#22806;&#38142;&#10;&#10;* Showing Code//&#23637;&#31034;code(&#35265;&#19968;&#19979; hello.go)&#10;&#10;.code hello.go//&#20840;&#37096;&#23637;&#31034;&#10;&#10;* Showing Partial Code//&#37096;&#20998;&#23637;&#31034;&#10;&#10;.code hello.go /show A type/,/end show A type/&#10;.code hello.go /start main OMIT/,/end main OMIT/&#10;.code hello.go /^func printStr/,/&#125;/&#10;&#10;* Running code//&#36816;&#34892;&#20195;&#30721;&#10;&#10;.play hello.go /start main OMIT/,/end main OMIT/      //.play&#36816;&#34892;&#10;&#10;* Bullet Points//&#21015;&#34920;&#10;- bullet point 1&#10;- bullet point 2&#10;- bullet point 3</span><br></pre></td></tr></table></figure></span>
+
+
+hello.go
+
+<span class="comment"><figure class="highlight golang"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> <span class="string">"fmt"</span></span><br><span class="line"></span><br><span class="line"><span class="comment">//show A type OMIT</span></span><br><span class="line"><span class="keyword">type</span> A <span class="keyword">struct</span>&#123;</span><br><span class="line">    name <span class="typename">string</span></span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//end show A type OMIT</span></span><br><span class="line"></span><br><span class="line"><span class="comment">//start main OMIT</span></span><br><span class="line"><span class="keyword">func</span> main()&#123;</span><br><span class="line">    fmt.Println(<span class="string">"hello world. sugeladi"</span>)</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//end main OMIT</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">func</span> printStr(s <span class="typename">string</span>)&#123;</span><br><span class="line">    fmt.Println(s) <span class="comment">// HL</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></span>
+</code></pre><ul>
+<li><p>外链放到go-talks(go开发者使用,第三方服务)和talks.godoc.org(golang官方服务) 需fanqiang看.</p>
+<p>  你把自己编写的.slide文件放到github上,然后编写README</p>
+  <figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#10;[go-talks](http://go-talks.appspot.com/github.com/sugeladi/slide/example.slide#1)&#10;&#10;[golang](http://talks.godoc.org/github.com/sugeladi/slide/example.slide)</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>效果如下:<br>  <a href="http://go-talks.appspot.com/github.com/sugeladi/slide/example.slide#1" target="_blank" rel="external">go-talks</a></p>
+<p>  <a href="http://talks.godoc.org/github.com/sugeladi/slide/example.slide" target="_blank" rel="external">golang</a></p>
+<p>  <a href="http://go-talks.appspot.com/github.com/sugeladi/slide/kibana.slide#1" target="_blank" rel="external">kibana-go-talks</a></p>
+<p>  <a href="http://talks.godoc.org/github.com/sugeladi/slide/kibana.slide" target="_blank" rel="external">kibana-golang(推荐使用)</a></p>
+</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li><p>来源</p>
+<p>  参加gopher china 2016的大会,在会上看到 <a href="https://github.com/davecheney">Dave</a>大神用go的 slide 来做演讲,觉得好酷,根据<a href="https://www.youtube.com/watch?v=83JBmS8WpHM">youtube</a>上的视频,然后自己跟着做了一遍,算是记录一下吧.</p>
+</li>
+<li><p>首先是下载</p>
+<p>  由于GWF( Great FireWall 防火长城,也称中国防火墙 ),导致去go get golang.org/x/tools/cmd/present 下载不下来,这里推荐 <a href="http://www.golangtc.com/download/package">golangtc</a>,下载下来之后,放到你自己的gopath下</p>
+</li>
+<li><p>安装 present</p>
+<p>  go install go/src/golang.org/x/tools/cmd/present/ 之后会在gopath的bin目录下多出来一个 present,</p>
+</li>
+<li><p>本地查看</p>
+<p>  有了present就可以查看.slide文件了. 直接在有.slide文件的目录下,输入present,然后访问 <a href="http://127.0.0.1:3999/">http://127.0.0.1:3999/</a> 就可以看到啦.</p>
+</li>
+<li><p>编写.slide文件</p>]]>
+    
+    </summary>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/tags/golang/"/>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/categories/golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[禁止ios的浏览器将连续数字识别为号码]]></title>
+    <link href="http://sugeladi.github.io/2016/05/06/%E7%A6%81%E6%AD%A2ios%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E5%B0%86%E8%BF%9E%E7%BB%AD%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB%E4%B8%BA%E5%8F%B7%E7%A0%81/"/>
+    <id>http://sugeladi.github.io/2016/05/06/禁止ios的浏览器将连续数字识别为号码/</id>
+    <published>2016-05-06T08:56:05.000Z</published>
+    <updated>2016-05-06T09:14:25.000Z</updated>
+    <content type="html"><![CDATA[<p>今天在用go的templates做网页的时候,发现被ios的内置浏览用webview加载 会把连续的数字解析成一个可拨打的手机号,并带上链接显示蓝色的字体,在网上搜索了一下发下Safari的官网上说有个 meta 的属性如下<br><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="title">meta</span> <span class="attribute">name</span>=<span class="value">"format-detection"</span> <span class="attribute">content</span>=<span class="value">"telephone=no"</span> /&gt;</span></span><br></pre></td></tr></table></figure></p>
+<p>记录一下~</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>今天在用go的templates做网页的时候,发现被ios的内置浏览用webview加载 会把连续的数字解析成一个可拨打的手机号,并带上链接显示蓝色的字体,在网上搜索了一下发下Safari的官网上说有个 meta 的属性如下<br><figure class="highli]]>
+    </summary>
+    
+      <category term="golang,templates,ios safari" scheme="http://sugeladi.github.io/tags/golang-templates-ios-safari/"/>
+    
+      <category term="html" scheme="http://sugeladi.github.io/categories/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[ELK 学习笔记(从零开始)]]></title>
+    <link href="http://sugeladi.github.io/2016/04/22/ELK-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B/"/>
+    <id>http://sugeladi.github.io/2016/04/22/ELK-学习笔记-从零开始/</id>
+    <published>2016-04-22T09:56:08.000Z</published>
+    <updated>2016-04-27T06:24:22.000Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li>一句话介绍<ul>
+<li>Logstash是一个接收，处理，转发日志的工具</li>
+<li>elasticsearch是基于lucene的开源搜索引擎(实时的全文索引),一个实时分布式搜索和分析引擎</li>
+<li>kibana 是根据elastic search 数据可视化，丰富功能，支持点选</li>
+</ul>
+</li>
+<li><p>版本号</p>
+<ul>
+<li>elasticsearch 版本 2.3.1</li>
+<li>logstash 版本 2.3.1</li>
+<li>kibana 版本 4.5.0</li>
+</ul>
+</li>
+<li>文档资料<ul>
+<li>官网 <a href="https://www.elastic.co" target="_blank" rel="external">https://www.elastic.co</a><br><img src="http://7xk2rp.com1.z0.glb.clouddn.com/Snip20160422_1.png" alt=""><a id="more"></a></li>
+<li>Logstash 最佳实践 <a href="http://udn.yyuap.com/doc/logstash-best-practice-cn/index.html" target="_blank" rel="external">http://udn.yyuap.com/doc/logstash-best-practice-cn/index.html</a></li>
+<li>Elasticsearch 权威指南  <a href="http://www.learnes.net/index.html" target="_blank" rel="external">http://www.learnes.net/index.html</a></li>
+<li>ELKstack 中文指南 <a href="http://kibana.logstash.es/content/" target="_blank" rel="external">http://kibana.logstash.es/content/</a></li>
+</ul>
+</li>
+<li>先用apt-get安装jdk logstash需要<ul>
+<li>sudo apt-get update</li>
+<li>sudo apt-get install openjdk-7-jdk</li>
+<li>设置java环境变量 sudo vi .bashrc 添加以下<ul>
+<li>export JAVA_HOME=/usr/local/java/jdk1.8.0_45</li>
+<li>export PATH=$PATH:$JAVA_HOME/bin</li>
+<li>exportCLASSPATH=.:$JAVA_HOME/lib/tools.jar:$JAVA_HOME/lib/dt.jar:$CLASSPATH</li>
+<li>source .bashrc</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>下载elasticsearch 版本 2.3.1</p>
+<ul>
+<li>wget <a href="https://download.elastic.co/elasticsearch/release/org/elasticsearch/distribution/tar/elasticsearch/2.3.1/elasticsearch-2.3.1.tar.gz" target="_blank" rel="external">https://download.elastic.co/elasticsearch/release/org/elasticsearch/distribution/tar/elasticsearch/2.3.1/elasticsearch-2.3.1.tar.gz</a></li>
+<li>解压 tar zxf elasticsearch-2.3.1.tar.gz -C /usr/local</li>
+<li>修改配置文件 /config/elasticsearch.yml  Network下 network.host 192.168.0.240 （测试服务器为 0.0.0.0） 也可以不设置，设置的原因是想在外网通过es的插件查看一些信息</li>
+<li>bin/elasticsearch -Des.insecure.allow.root=true (解决root不能启动)</li>
+<li>启动 elasticsearch 进入 elastic search 目录 ./bin/elasticsearch -d （-d 参数 在后台运行）</li>
+<li>可以用 curl ‘<a href="http://localhost:9200/_search?pretty" target="_blank" rel="external">http://localhost:9200/_search?pretty</a>‘ 来查看</li>
+</ul>
+</li>
+<li><p>下载logstash 版本 2.3.1</p>
+<ul>
+<li>wget <a href="https://download.elastic.co/logstash/logstash/logstash-2.3.1.tar.gz" target="_blank" rel="external">https://download.elastic.co/logstash/logstash/logstash-2.3.1.tar.gz</a></li>
+<li>解压 tar zxf logstash-2.3.1.tar.gz -C /usr/local</li>
+<li>执行 /usr/local/logstash-2.3.1/bin/logstash -e ‘input { stdin { } } output { stdout {} }’  这是你输入什么，控制台就会有格式的显示什么</li>
+<li>使用agent -f , 编写文件 logstash-simple.conf  内容为 input { stdin { } } output { stdout {} }</li>
+<li>/usr/local/logstash-2.3.1/bin/logstash agent -f logstash-simple.conf</li>
+<li>nohup ./bin/logstash -f logstash-nginx-file.conf &amp; 在后台启动</li>
+</ul>
+</li>
+<li>下载kibana 版本 4.5.0<ul>
+<li>wget <a href="https://download.elastic.co/kibana/kibana/kibana-4.5.0-linux-x64.tar.gz" target="_blank" rel="external">https://download.elastic.co/kibana/kibana/kibana-4.5.0-linux-x64.tar.gz</a></li>
+<li>解压 tar zxf kibana-4.5.0-linux-x64.tar.gz -C /usr/local</li>
+<li>修改配置文件 /config/kibana.yml 指定 elasticsearch.url</li>
+<li>启动 进入 kibana-4.5.0-linux-x64.tar.gz目录 ./bin/kibana 在后台运行  用 honup ./bin/kibana &amp;</li>
+<li>kibana是nodejs开发的，本身并没有任何安全限制，直接浏览url就能访问，如果公网环境非常不安全，可以通过nginx请求转发增加认证</li>
+<li>kibana没有重启命令，要重启，只能ps -ef|grep node 查找nodejs进程，干掉重来。</li>
+<li>添加auth认证<ul>
+<li>配置nginx配置文件 vi /etc/nginx/sites-available/default 添加 auth_basic auth_basic_user_file<ul>
+<li>upstream kibana {</li>
+<li>server 127.0.0.1:5601;</li>
+<li>}</li>
+<li>server{</li>
+<li>listen    80;</li>
+<li>server_name kibanabeta.occall.com;</li>
+<li>auth_basic “Restricted Access”;</li>
+<li>auth_basic_user_file /etc/nginx/htpasswd.users;</li>
+<li>location / {</li>
+<li>proxy_pass_header Server;</li>
+<li>proxy_set_header Host $http_host;</li>
+<li>proxy_redirect off;</li>
+<li>proxy_set_header X-Real-IP $remote_addr;</li>
+<li>proxy_set_header X-Scheme $scheme;</li>
+<li>proxy_pass <a href="http://kibana" target="_blank" rel="external">http://kibana</a>;</li>
+<li>}</li>
+<li>}</li>
+</ul>
+</li>
+<li>使用apt-get install apache2-utils</li>
+<li>htpasswd -c /etc/nginx/htpasswd.users kadmin 输入后，会让你输入密码</li>
+<li>重启nginx service nginx restart   </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p> 安装结束，开始配置！</p>
+<ul>
+<li><p>结合 logstash 和 elasticsearch   监控文件</p>
+<ul>
+<li>先启动elasticsearch</li>
+<li>编写logstash文件logstash-es-simple.conf   input { stdin { } } output { elasticsearch {hosts=&gt; “localhost”} stdout {} }</li>
+<li>启动logstash /usr/local/logstash-2.3.1/bin/logstash agent -f logstash-es-simple.conf</li>
+<li>这是你在控制台输入的东西 会 有规则的显示在控制台 同时会写入到 elasticsearch中</li>
+<li>查看elasticsearch， curl ‘<a href="http://localhost:9200/_search?pretty" target="_blank" rel="external">http://localhost:9200/_search?pretty</a>‘ 会发现刚写入的内容会在response中</li>
+<li>logstash 跟踪文件 mvoice的日志 input { file { path =&gt; “/path/to/logstash-tutorial.log”  start_position =&gt; beginning   ignore_older =&gt; 0 }}</li>
+<li>跟踪mvoice的日志文件 input {  file { path =&gt; “/home/gin/nohup.out” start_position =&gt; beginning ignore_older =&gt;0 } } output { elasticsearch {hosts=&gt; “localhost”} stdout { codec=&gt; rubydebug} }</li>
+<li>start_position 仅在该文件从未被监听过的时候起作用。如果 sincedb 文件中已经有这个文件的 inode 记录了，那么 logstash 依然会从记录过的 pos 开始读取数据。所以重复测试的时候每回需要删除 sincedb 文件(官方博客上提供了另一个巧妙的思路：将 sincedb_path 定义为 /dev/null，则每次重启自动从头开始读)。</li>
+<li><p>logstash 读取nginx的access.log 需要nginx的日志文件 相匹配 (这里的date解析的时候，遇到一个坑（低级错误），HH我写成了hh，所以会一直报一个警告 {:timestamp=&gt;”2016-04-22T16:54:57.527000+0800”, :message=&gt;”Failed parsing date from field”, :field=&gt;”time_local”, :value=&gt;”22/Apr/2016:16:54:56 +0800”, :exception=&gt;”Cannot parse \”22/Apr/2016:16:54:56 +0800\”: Value 16 for clockhourOfHalfday must be in the range [1,12]”, :config_parsers=&gt;”dd/MMM/yyyy:hh:mm:ss Z”, :config_locale=&gt;”en”, :level=&gt;:warn})       直接看到信息 16 for clockhourOfHalfday must be in the range [1,12]</p>
+   <figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">filter&#123;&#10;        ruby &#123;&#10;        init =&#62; &#34;@kname = [&#39;remote_addr&#39;,&#39;remote_user&#39;,&#39;time_local&#39;,&#39;request&#39;,&#39;status&#39;,&#39;body_bytes_sent&#39;,&#39;request_time&#39;,&#39;upstream_response_time&#39;,&#39;http_referer&#39;,&#39;http_user_agent&#39;,&#39;http_x_forwarded_for&#39;]&#34;&#10;        code =&#62; &#34;event.append(Hash[@kname.zip(event[&#39;message&#39;].split(&#39; | &#39;))])&#34;&#10;    &#125;&#10;    if [request] &#123;&#10;        ruby &#123;&#10;            init =&#62; &#34;@kname = [&#39;method&#39;,&#39;uri&#39;,&#39;verb&#39;]&#34;&#10;            code =&#62; &#34;event.append(Hash[@kname.zip(event[&#39;request&#39;].split(&#39; &#39;))])&#34;&#10;        &#125;&#10;     &#125;&#10;     mutate &#123;&#10;        convert =&#62; [&#10;            &#34;body_bytes_sent&#34; , &#34;integer&#34;,&#10;            &#34;upstream_response_time&#34;, &#34;float&#34;,&#10;            &#34;request_time&#34;, &#34;float&#34;&#10;        ]&#10;    &#125;&#10;    date &#123;&#10;        match =&#62; [ &#34;time_local&#34;, &#34;dd/MMM/yyyy:HH:mm:ss Z&#34; ]&#10;        locale =&#62; &#34;en&#34;&#10;    &#125;&#10;    geoip &#123;&#10;           source =&#62; &#34;remote_addr&#34;&#10;     &#125;&#10;&#125;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>grok <a href="http://grokdebug.herokuapp.com" target="_blank" rel="external">http://grokdebug.herokuapp.com</a>  在线调试网址</p>
+</li>
+<li>gsup ：替换 支持正则，为了保证uri为统一，即 可统计数据，将bsonId 和 uId 去除，需要在gsup中添加响应的正则。  <figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mutate &#123;&#10;        convert =&#62; [&#10;            &#34;body_bytes_sent&#34; , &#34;integer&#34;,&#10;            &#34;upstream_response_time&#34;, &#34;float&#34;,&#10;            &#34;request_time&#34;, &#34;float&#34;&#10;        ]&#10;        gsub =&#62; [&#34;uri&#34;,&#34;[0-9a-z]&#123;24&#125;&#8221;,&#34;bsonid&#34;]&#10;        gsub =&#62; [&#34;uri&#34;,&#34;\d&#123;6,&#125;&#8221;,&#34;uid&#34;]&#10;        gsub =&#62; [&#34;uri&#34;,&#34;\d+x\d+&#34;,&#34;wh&#34;]&#10;        gsub =&#62; [&#34;uri&#34;,&#34;\?.+&#34;,&#34;&#34;]&#10;    &#125;</span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+</li>
+<li><p>logstash 创建多个conf 并保存到多个类型index</p>
+<ul>
+<li>logstash 还提供一个方便我们规划和书写配置的小功能。你可以直接用 bin/logstash -f /etc/logstash.d/ 来运行。logstash 会自动读取 /etc/logstash.d/ 目录下所有 *.conf 的文本文件，然后在自己内存里拼接成一个完整的大配置文件，再去执行。</li>
+<li>Logstash 在有多个 conf 文件的情况下，进入 ES 的数据会重复，几个 conf 数据就会重复几次。其实问题原因在之前启动参数章节有提过，output 段顺序执行，没有对日志 type 进行判断的各插件配置都会全部执行一次。在 output 段对 type 进行判断的语法如下所示:  <figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"> output &#123;&#10;    if [type] == &#34;nginxaccess&#34; &#123;&#10;      elasticsearch &#123; &#125;&#10;    &#125;&#10;&#125;</span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+</li>
+<li><p>安装elasticsearch 插件 Elasticsearch-kopf 插件可以查询 Elasticsearch 中的数据</p>
+<ul>
+<li>在elasticsearch目录下 ./bin/plugin install lmenezes/elasticsearch-kopf</li>
+<li>安装完成后在 plugins 目录下可以看到 kopf</li>
+<li>访问 <a href="http://localhost:9200/_plugin/kopf" target="_blank" rel="external">http://localhost:9200/_plugin/kopf</a> 需要开启端口号</li>
+<li>修改配置文件 /config/elasticsearch.yml 其中 network.host 启动的IP(参考 4.3)</li>
+<li>修改配置文件 /config/elasticsearch.yml 开启script 脚本(这样就可以愉快的使用 update += 了 ) 即 8.11</li>
+</ul>
+</li>
+<li><p>elastic 通过 HTTP 向 RESTful API 传送 json</p>
+<ul>
+<li>相应的 HTTP 请求方法 或者 变量 : GET, POST, PUT, HEAD 或者 DELETE</li>
+<li>创建一个index  curl -XPUT ‘localhost:9200/customer?pretty’</li>
+<li>查看所有index  curl ‘localhost:9200/_cat/indices?v’</li>
+<li>向type中插入一条数据 curl -XPUT elk.occall:9200/hxindex/user/2 -d ‘{“name”:”hx02”,”age”:26}’</li>
+<li>向type中插入一条数据 不指定id  curl -XPOST elk.occall:9200/hxindex/user -d ‘{“name”:”hx03”,”age”:26}’</li>
+<li>查询数据 curl -XGET elk.occall:9200/hxindex/user/1?pretty</li>
+<li>删除文档一条数据 curl -XDELETE elk.occall:9200/hxindex/user/1?pretty</li>
+<li>修改数据 同插入，如果有就是修改，没有就是插入</li>
+<li>修改某个字段 curl -XPOST elk.occall:9200/hxindex/user/2/_update?pretty -d ‘{“doc”:{“name”:”hxx02”}}’</li>
+<li>添加一个字段 curl -XPOST elk.occall:9200/hxindex/user/2/_update?pretty -d ‘{“doc”:{“name”:”hxx02”,”address”:”BJ”}}’</li>
+<li>使用脚本 curl -XPOST elk.occall:9200/hxindex/user/2/_update?pretty -d ‘{“script”:{“age”:”cx._source.age+=5”}}’</li>
+</ul>
+</li>
+<li><p>额外的话</p>
+<ul>
+<li><p>LogStash 的性能，是最让新人迷惑的地方。因为 LogStash 本身并不维护队列，所以整个日志流转中任意环节的问题，都可能看起来像是 LogStash 的问题。这里，需要熟练使用本节说的测试方法，针对自己的每一段配置，都确定其性能。另一方面，就是本书之前提到过的，LogStash 给自己的线程都设置了单独的线程名称，你可以在 top -H 结果中查看具体线程的负载情况。</p>
+</li>
+<li><p>Elasticsearch 的性能。这里最需要强调的是：Elasticsearch 是一个分布式系统。从来没有分布式系统要跟人比较单机处理能力的说法。所以，更需要关注的是：在确定的单机处理能力的前提下，性能是否能做到线性扩展。当然，这不意味着说提高处理能力只能靠加机器了——有效利用 mapping API 是非常重要的。不过暂时就在这里讲述了。</p>
+</li>
+<li><p>Kibana 的性能。通常来说，Kibana 只是一个单页 Web 应用，只需要 nginx 发布静态文件即可，没什么性能问题。页面加载缓慢，基本上是因为 Elasticsearch 的请求响应时间本身不够快导致的。不过一定要细究的话，也能找出点 Kibana 本身性能相关的话题：因为 Kibana3 默认是连接固定的一个 ES 节点的 IP 端口的，所以这里会涉及一个浏览器的同一 IP 并发连接数的限制。其次，就是 Kibana 用的 AngularJS 使用了 Promise.then 的方式来处理 HTTP 请求响应。这是异步的。</p>
+</li>
+</ul>
+</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li>一句话介绍<ul>
+<li>Logstash是一个接收，处理，转发日志的工具</li>
+<li>elasticsearch是基于lucene的开源搜索引擎(实时的全文索引),一个实时分布式搜索和分析引擎</li>
+<li>kibana 是根据elastic search 数据可视化，丰富功能，支持点选</li>
+</ul>
+</li>
+<li><p>版本号</p>
+<ul>
+<li>elasticsearch 版本 2.3.1</li>
+<li>logstash 版本 2.3.1</li>
+<li>kibana 版本 4.5.0</li>
+</ul>
+</li>
+<li>文档资料<ul>
+<li>官网 <a href="https://www.elastic.co">https://www.elastic.co</a><br><img src="http://7xk2rp.com1.z0.glb.clouddn.com/Snip20160422_1.png" alt="">]]>
+    
+    </summary>
+    
+      <category term="ELK" scheme="http://sugeladi.github.io/tags/ELK/"/>
+    
+      <category term="ELK" scheme="http://sugeladi.github.io/categories/ELK/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[golang slice copy一个小坑]]></title>
+    <link href="http://sugeladi.github.io/2016/04/06/golang-slice-copy%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%9D%91/"/>
+    <id>http://sugeladi.github.io/2016/04/06/golang-slice-copy一个小坑/</id>
+    <published>2016-04-06T08:41:33.000Z</published>
+    <updated>2016-04-06T08:54:09.000Z</updated>
+    <content type="html"><![CDATA[<p>今天遇到了一个slice在copy中的坑,在复制时一定要注意,目标slice的len是大于源slice的len.(不是cap)<br>直接上代码:<br><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> <span class="string">"fmt"</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">func</span> main() &#123;</span><br><span class="line">	srcSlice := []<span class="typename">string</span>&#123;<span class="string">"hello"</span>,<span class="string">"world"</span>&#125;</span><br><span class="line">	copy1 := []<span class="typename">string</span>&#123;&#125;</span><br><span class="line">	copy2 := <span class="built_in">make</span>([]<span class="typename">string</span>, <span class="built_in">len</span>(srcSlice))</span><br><span class="line">	<span class="built_in">copy</span>(copy1, srcSlice)</span><br><span class="line">	<span class="built_in">copy</span>(copy2, srcSlice)</span><br><span class="line">	fmt.Printf(<span class="string">"srcSlice:%v \n"</span>,srcSlice)</span><br><span class="line">	fmt.Printf(<span class="string">"copy1:%v \n"</span>,copy1)</span><br><span class="line">	fmt.Printf(<span class="string">"copy2:%v \n"</span>,copy2)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">console:&#10;    srcSlice:[hello world] &#10;    copy1:[] &#10;    copy2:[hello world]</span><br></pre></td></tr></table></figure>]]></content>
+    <summary type="html">
+    <![CDATA[<p>今天遇到了一个slice在copy中的坑,在复制时一定要注意,目标slice的len是大于源slice的len.(不是cap)<br>直接上代码:<br><figure class="highlight go"><table><tr><td class="gutter"><]]>
+    </summary>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/tags/golang/"/>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/categories/golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[golang gctrace]]></title>
+    <link href="http://sugeladi.github.io/2016/03/07/golang-gctrace/"/>
+    <id>http://sugeladi.github.io/2016/03/07/golang-gctrace/</id>
+    <published>2016-03-07T08:03:29.000Z</published>
+    <updated>2016-03-07T09:56:41.000Z</updated>
+    <content type="html"><![CDATA[<p>golang的GCTRACE(垃圾收集器追踪) 操作步骤:</p>
+<h3 id="1-先写点go代码,做点内存操作">1.先写点go代码,做点内存操作</h3><p>test1.go :<br><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> (</span><br><span class="line">	<span class="string">"fmt"</span></span><br><span class="line">	<span class="string">"log"</span></span><br><span class="line">	<span class="string">"math/rand"</span></span><br><span class="line">	<span class="string">"net/http"</span></span><br><span class="line">)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">type</span> HXTest <span class="keyword">struct</span> &#123;</span><br><span class="line">	Id        <span class="typename">int</span></span><br><span class="line">	Name <span class="typename">string</span></span><br><span class="line">	Email <span class="typename">string</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+<a id="more"></a>
+<figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">func</span> main() &#123;</span><br><span class="line">	<span class="keyword">const</span> SIZE = <span class="number">1000000</span> <span class="comment">// 100万</span></span><br><span class="line">	m := <span class="built_in">make</span>(<span class="keyword">map</span>[<span class="typename">int32</span>]HXTest, SIZE)</span><br><span class="line">	<span class="keyword">for</span> i := <span class="number">0</span>; i &lt; SIZE; i++ &#123; <span class="comment">// 把数据放进内存</span></span><br><span class="line">		m[rand.Int31()] = HXTest&#123;</span><br><span class="line">			Id:i,</span><br><span class="line">			Name:fmt.Sprintf(<span class="string">"hx%d"</span>,i),</span><br><span class="line">			Email:fmt.Sprintf(<span class="string">"hx%d@gmail.com"</span>,i),</span><br><span class="line">		&#125;</span><br><span class="line">	&#125;</span><br><span class="line"></span><br><span class="line">	http.HandleFunc(<span class="string">"/"</span>, <span class="keyword">func</span>(w http.ResponseWriter, r *http.Request) &#123;</span><br><span class="line">		<span class="comment">// 模拟内存分配，做一些计算</span></span><br><span class="line">		num := rand.Intn(<span class="number">10000</span>)</span><br><span class="line">		sum := <span class="number">0</span></span><br><span class="line">		<span class="keyword">for</span> i := <span class="number">0</span>; i &lt; num; i++ &#123;</span><br><span class="line">			sum = sum + i</span><br><span class="line">		&#125;</span><br><span class="line">		fmt.Fprintf(w, <span class="string">"num:%d,sum: %d"</span>,num, sum)</span><br><span class="line">	&#125;)</span><br><span class="line">	log.Fatal(http.ListenAndServe(<span class="string">":8080"</span>, <span class="constant">nil</span>))</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="2-运行起来,go_build:mac的Terminal下:">2.运行起来,go build:mac的Terminal下:</h3><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">go build -o gcTest test1.go&#10;GODEBUG=&#34;gctrace=1&#34; ./gcTest 2&#62;log_file</span><br></pre></td></tr></table></figure>
+<p>说明:<br>将GOGCTRACE设置为1，Go程序就会在每次GC的时候输出GC的相关信息。<br>2&gt;log_file 是把错误输出重定向到log_file的文件里.</p>
+<h3 id="3-使用wrk做测试:_-d_10秒">3.使用wrk做测试: -d 10秒</h3><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wrk http://localhost:8080/ -d 10s</span><br></pre></td></tr></table></figure>
+<p>运行结果:<br><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hdeMacBook-Pro:goWeb lihexing$ wrk http://localhost:8080/ -d 10s &#10;Running 10s test @ http://localhost:8080/&#10;  2 threads and 10 connections&#10;  Thread Stats   Avg      Stdev     Max   +/- Stdev&#10;    Latency    10.59ms   39.21ms 302.23ms   92.77%&#10;    Req/Sec    29.45k     6.57k   36.60k    88.14%&#10;  574902 requests in 10.02s, 75.79MB read&#10;Requests/sec:  57371.48&#10;Transfer/sec:      7.56MB</span><br></pre></td></tr></table></figure></p>
+<p>用tail -f log_file 查看文件如下:<br><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hdeMacBook-Pro:gcTest lihexing$ tail -f log_file &#10;gc 1 @0.007s 11%: 0.10+83+0.092 ms clock, 0.30+83/0.46/83+0.27 ms cpu, 92-&#62;92-&#62;92 MB, 93 MB goal, 8 P&#10;gc 2 @0.109s 10%: 0.005+55+0.096 ms clock, 0.046+0.024/55/0.43+0.77 ms cpu, 93-&#62;93-&#62;93 MB, 184 MB goal, 8 P&#10;gc 3 @0.819s 1%: 0.008+189+0.058 ms clock, 0.069+0.011/1.2/190+0.46 ms cpu, 139-&#62;139-&#62;132 MB, 186 MB goal, 8 P&#10;gc 4 @7.581s 0%: 0.016+175+0.18 ms clock, 0.13+0.44/2.9/178+1.4 ms cpu, 231-&#62;231-&#62;139 MB, 265 MB goal, 8 P&#10;gc 5 @9.555s 0%: 0.021+172+0.10 ms clock, 0.12+0.42/2.1/175+0.60 ms cpu, 261-&#62;261-&#62;139 MB, 279 MB goal, 8 P&#10;gc 6 @11.755s 0%: 0.018+166+0.11 ms clock, 0.090+3.0/2.2/167+0.55 ms cpu, 270-&#62;270-&#62;139 MB, 279 MB goal, 8 P&#10;gc 7 @14.022s 0%: 0.016+160+0.11 ms clock, 0.10+3.4/1.7/160+0.66 ms cpu, 272-&#62;272-&#62;139 MB, 279 MB goal, 8 P&#10;GC forced&#10;gc 8 @136.019s 0%: 0.023+191+0.071 ms clock, 0.18+0/3.3/189+0.57 ms cpu, 258-&#62;258-&#62;139 MB, 279 MB goal, 8 P&#10;scvg0: inuse: 144, idle: 129, sys: 274, released: 0, consumed: 274 (MB)&#10;GC forced&#10;gc 9 @256.248s 0%: 0.018+225+0.17 ms clock, 0.14+0/4.1/223+1.4 ms cpu, 139-&#62;139-&#62;139 MB, 278 MB goal, 8 P&#10;scvg1: inuse: 144, idle: 129, sys: 274, released: 0, consumed: 274 (MB)&#10;GC forced&#10;gc 10 @376.484s 0%: 0.011+182+0.10 ms clock, 0.091+0/3.2/180+0.86 ms cpu, 139-&#62;139-&#62;139 MB, 278 MB goal, 8 P&#10;GC forced&#10;gc 11 @496.675s 0%: 0.012+194+0.097 ms clock, 0.10+0/3.6/191+0.77 ms cpu, 139-&#62;139-&#62;139 MB, 278 MB goal, 8 P&#10;scvg2: 129 MB released&#10;scvg2: inuse: 144, idle: 129, sys: 274, released: 129, consumed: 144 (MB)&#10;GC forced&#10;gc 12 @616.890s 0%: 0.020+200+0.096 ms clock, 0.16+0/3.7/198+0.77 ms cpu, 139-&#62;139-&#62;139 MB, 278 MB goal, 8 P&#10;scvg3: inuse: 144, idle: 129, sys: 274, released: 129, consumed: 144 (MB)&#10;GC forced&#10;gc 13 @737.102s 0%: 0.018+191+0.085 ms clock, 0.15+0/192/1.0+0.68 ms cpu, 139-&#62;139-&#62;139 MB, 278 MB goal, 8 P</span><br></pre></td></tr></table></figure></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>golang的GCTRACE(垃圾收集器追踪) 操作步骤:</p>
+<h3 id="1-先写点go代码,做点内存操作">1.先写点go代码,做点内存操作</h3><p>test1.go :<br><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> (</span><br><span class="line">	<span class="string">"fmt"</span></span><br><span class="line">	<span class="string">"log"</span></span><br><span class="line">	<span class="string">"math/rand"</span></span><br><span class="line">	<span class="string">"net/http"</span></span><br><span class="line">)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">type</span> HXTest <span class="keyword">struct</span> &#123;</span><br><span class="line">	Id        <span class="typename">int</span></span><br><span class="line">	Name <span class="typename">string</span></span><br><span class="line">	Email <span class="typename">string</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>]]>
+    
+    </summary>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/tags/golang/"/>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/categories/golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Mac下安装Protobuf并生成java go ios文件]]></title>
+    <link href="http://sugeladi.github.io/2016/02/29/Protobuf-%E7%94%9F%E6%88%90java-go-ios%E6%96%87%E4%BB%B6/"/>
+    <id>http://sugeladi.github.io/2016/02/29/Protobuf-生成java-go-ios文件/</id>
+    <published>2016-02-29T08:54:41.000Z</published>
+    <updated>2016-02-29T10:00:56.000Z</updated>
+    <content type="html"><![CDATA[<p>1.安装brew.查看本地是否 brew -v,如果没安装,执行以下代码<br><figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ruby -e <span class="string">"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</span></span><br></pre></td></tr></table></figure></p>
+<p>2.安装protobuf<br><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew install automake&#10;brew install libtool&#10;brew install protobuf</span><br></pre></td></tr></table></figure></p>
+<a id="more"></a>
+<p>3.制作java文件 执行 protoc -help 可以看到 java_out=OUT_DIR 直接就有java的,所以直接执行<br><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">protoc --java_out=/Users/lihexing/Desktop/protobuf/java you.proto</span><br></pre></td></tr></table></figure></p>
+<p>4.制作go文件,重点是插件 protoc-gen-go</p>
+<pre><code><span class="number">1</span>. 下载源码 <span class="keyword">go</span> <span class="built_in">get</span> github.<span class="keyword">com</span>/golang/protobuf/protoc-gen-<span class="keyword">go</span>
+<span class="number">2</span>. 进入目录 <span class="keyword">cd</span> github.<span class="keyword">com</span>/golang/protobuf/protoc-gen-<span class="keyword">go</span>
+<span class="number">3</span>. 编译插件 <span class="keyword">go</span> install
+<span class="number">4</span>. 使用插件 protoc --go_out=/Users/lihexing/Desktop/protobuf/<span class="keyword">go</span> you.proto
+</code></pre><p>5.制作ios文件 重点是插件 protobuf-objc</p>
+<pre><code><span class="number">1.</span> 设置软连接 ln -s <span class="regexp">/usr/</span>local<span class="regexp">/Cellar/</span>protobuf<span class="regexp">/2.6.1/</span>bin<span class="regexp">/protoc /</span>usr<span class="regexp">/local/</span>bin
+<span class="number">2.</span> 克隆源码 git clone <span class="string">https:</span><span class="comment">//github.com/alexeyxo/protobuf-objc.git</span>
+<span class="number">3.</span> 进入目录 cd protobuf-objc
+<span class="number">4.</span> 编译插件 .<span class="regexp">/scripts/</span>build.sh
+<span class="number">5.</span> 使用插件 pprotoc --plugin=<span class="regexp">/usr/</span>local<span class="regexp">/bin/</span>protoc-gen-objc kodec.proto --objc_out=<span class="regexp">/Users/</span>lihexing<span class="regexp">/Desktop/</span>protobuf<span class="regexp">/ios/</span>
+</code></pre><p>至此,在Mac下安装使用protobuf已完成.  至于如何写protobuf,还得接着学习~ </p>
+<p>执行protoc -help:<br><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Usage: protoc [OPTION] PROTO_FILES&#10;Parse PROTO_FILES and generate output based on the options given:&#10;  -IPATH, --proto_path=PATH   Specify the directory in which to search for&#10;                              imports.  May be specified multiple times;&#10;                              directories will be searched in order.  If not&#10;                              given, the current working directory is used.&#10;  --version                   Show version info and exit.&#10;  -h, --help                  Show this text and exit.&#10;  --encode=MESSAGE_TYPE       Read a text-format message of the given type&#10;                              from standard input and write it in binary&#10;                              to standard output.  The message type must&#10;                              be defined in PROTO_FILES or their imports.&#10;  --decode=MESSAGE_TYPE       Read a binary message of the given type from&#10;                              standard input and write it in text format&#10;                              to standard output.  The message type must&#10;                              be defined in PROTO_FILES or their imports.&#10;  --decode_raw                Read an arbitrary protocol message from&#10;                              standard input and write the raw tag/value&#10;                              pairs in text format to standard output.  No&#10;                              PROTO_FILES should be given when using this&#10;                              flag.&#10;  -oFILE,                     Writes a FileDescriptorSet (a protocol buffer,&#10;    --descriptor_set_out=FILE defined in descriptor.proto) containing all of&#10;                              the input files to FILE.&#10;  --include_imports           When using --descriptor_set_out, also include&#10;                              all dependencies of the input files in the&#10;                              set, so that the set is self-contained.&#10;  --include_source_info       When using --descriptor_set_out, do not strip&#10;                              SourceCodeInfo from the FileDescriptorProto.&#10;                              This results in vastly larger descriptors that&#10;                              include information about the original&#10;                              location of each decl in the source file as&#10;                              well as surrounding comments.&#10;  --error_format=FORMAT       Set the format in which to print errors.&#10;                              FORMAT may be &#39;gcc&#39; (the default) or &#39;msvs&#39;&#10;                              (Microsoft Visual Studio format).&#10;  --print_free_field_numbers  Print the free field numbers of the messages&#10;                              defined in the given proto files. Groups share&#10;                              the same field number space with the parent &#10;                              message. Extension ranges are counted as &#10;                              occupied fields numbers.&#10;  --plugin=EXECUTABLE         Specifies a plugin executable to use.&#10;                              Normally, protoc searches the PATH for&#10;                              plugins, but you may specify additional&#10;                              executables not in the path using this flag.&#10;                              Additionally, EXECUTABLE may be of the form&#10;                              NAME=PATH, in which case the given plugin name&#10;                              is mapped to the given executable even if&#10;                              the executable&#39;s own name differs.&#10;  --cpp_out=OUT_DIR           Generate C++ header and source.&#10;  --java_out=OUT_DIR          Generate Java source file.&#10;  --python_out=OUT_DIR        Generate Python source file.</span><br></pre></td></tr></table></figure></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>1.安装brew.查看本地是否 brew -v,如果没安装,执行以下代码<br><figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ruby -e <span class="string">"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</span></span><br></pre></td></tr></table></figure></p>
+<p>2.安装protobuf<br><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew install automake&#10;brew install libtool&#10;brew install protobuf</span><br></pre></td></tr></table></figure></p>]]>
+    
+    </summary>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/tags/golang/"/>
+    
+      <category term="ios" scheme="http://sugeladi.github.io/tags/ios/"/>
+    
+      <category term="java" scheme="http://sugeladi.github.io/tags/java/"/>
+    
+      <category term="protobuf" scheme="http://sugeladi.github.io/tags/protobuf/"/>
+    
+      <category term="protobuf" scheme="http://sugeladi.github.io/categories/protobuf/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[golang字符串截取的两种方式]]></title>
+    <link href="http://sugeladi.github.io/2016/02/26/golang%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%88%AA%E5%8F%96%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F/"/>
+    <id>http://sugeladi.github.io/2016/02/26/golang字符串截取的两种方式/</id>
+    <published>2016-02-26T07:54:26.000Z</published>
+    <updated>2016-02-29T10:01:27.000Z</updated>
+    <content type="html"><![CDATA[<p>打印出时间,发现采用lastIndex要比split的方式要快一些.</p>
+<h3 id="直接上代码">直接上代码</h3><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> (</span><br><span class="line"><span class="string">"log"</span></span><br><span class="line"><span class="string">"strings"</span></span><br><span class="line">	<span class="string">"time"</span></span><br><span class="line">)</span><br><span class="line"></span><br><span class="line"><span class="keyword">func</span> main()  &#123;</span><br><span class="line">	name := <span class="string">"a.txh.doc"</span></span><br><span class="line">	t := time.Now()</span><br><span class="line">	<span class="keyword">for</span> i:=<span class="number">0</span>;i&lt;<span class="number">1000</span>;i++&#123;</span><br><span class="line">		split(name)</span><br><span class="line">	&#125;</span><br><span class="line">	log.Println(time.Now().Sub(t))</span><br><span class="line"></span><br><span class="line">	t1 := time.Now()</span><br><span class="line">	<span class="keyword">for</span> i:=<span class="number">0</span>;i&lt;<span class="number">1000</span>;i++&#123;</span><br><span class="line">		lastIndex(name)</span><br><span class="line">	&#125;</span><br><span class="line">	log.Println(time.Now().Sub(t1))</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">func</span> split(name <span class="typename">string</span>) (<span class="typename">int</span>,<span class="typename">string</span>)&#123;</span><br><span class="line">	result := strings.Split(name, <span class="string">"."</span>)</span><br><span class="line">	resultLen := <span class="built_in">len</span>(result)</span><br><span class="line">	<span class="keyword">if</span> resultLen &lt; <span class="number">2</span> &#123;</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"0"</span></span><br><span class="line">	&#125;</span><br><span class="line">	filenameWithSuffixToLower := strings.ToLower(result[resultLen-<span class="number">1</span>])</span><br><span class="line">	<span class="keyword">switch</span> filenameWithSuffixToLower &#123;</span><br><span class="line">	<span class="keyword">case</span> <span class="string">"pdf"</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"1"</span></span><br><span class="line">	<span class="keyword">case</span> <span class="string">"doc"</span>, <span class="string">"docx"</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"2"</span></span><br><span class="line">	<span class="keyword">case</span> <span class="string">"xls"</span>, <span class="string">"xlsx"</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"3"</span></span><br><span class="line">	<span class="keyword">case</span> <span class="string">"ppt"</span>, <span class="string">"pptx"</span>, <span class="string">"pps"</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"4"</span></span><br><span class="line">	<span class="keyword">case</span> <span class="string">"png"</span>, <span class="string">"gif"</span>, <span class="string">"jpeg"</span>, <span class="string">"jpg"</span>, <span class="string">"bmp"</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"5"</span></span><br><span class="line">	<span class="keyword">case</span> <span class="string">"txt"</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"6"</span></span><br><span class="line">	<span class="keyword">default</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"0"</span></span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">func</span> lastIndex(name <span class="typename">string</span>) (<span class="typename">int</span>,<span class="typename">string</span>)&#123;</span><br><span class="line">	index := strings.LastIndex(name,<span class="string">"."</span>)</span><br><span class="line">	<span class="keyword">if</span> index &lt; <span class="number">0</span> &#123;</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"0"</span></span><br><span class="line">	&#125;</span><br><span class="line">	result := name[index+<span class="number">1</span>:]</span><br><span class="line">	filenameWithSuffixToLower := strings.ToLower(result)</span><br><span class="line">	<span class="keyword">switch</span> filenameWithSuffixToLower &#123;</span><br><span class="line">	<span class="keyword">case</span> <span class="string">"pdf"</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"1"</span></span><br><span class="line">	<span class="keyword">case</span> <span class="string">"doc"</span>, <span class="string">"docx"</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"2"</span></span><br><span class="line">	<span class="keyword">case</span> <span class="string">"xls"</span>, <span class="string">"xlsx"</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"3"</span></span><br><span class="line">	<span class="keyword">case</span> <span class="string">"ppt"</span>, <span class="string">"pptx"</span>, <span class="string">"pps"</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"4"</span></span><br><span class="line">	<span class="keyword">case</span> <span class="string">"png"</span>, <span class="string">"gif"</span>, <span class="string">"jpeg"</span>, <span class="string">"jpg"</span>, <span class="string">"bmp"</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"5"</span></span><br><span class="line">	<span class="keyword">case</span> <span class="string">"txt"</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"6"</span></span><br><span class="line">	<span class="keyword">default</span>:</span><br><span class="line">		<span class="keyword">return</span> <span class="number">200</span>, <span class="string">"0"</span></span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>split内部的实现可看到源码(如下),内部也是去做的for循环字符串截取分隔,所以lastIndex直接获取到索引,直接截取:<br><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// Generic split: splits after each instance of sep,</span></span><br><span class="line"><span class="comment">// including sepSave bytes of sep in the subarrays.</span></span><br><span class="line"><span class="keyword">func</span> genSplit(s, sep <span class="typename">string</span>, sepSave, n <span class="typename">int</span>) []<span class="typename">string</span> &#123;</span><br><span class="line">	<span class="keyword">if</span> n == <span class="number">0</span> &#123;</span><br><span class="line">		<span class="keyword">return</span> <span class="constant">nil</span></span><br><span class="line">	&#125;</span><br><span class="line">	<span class="keyword">if</span> sep == <span class="string">""</span> &#123;</span><br><span class="line">		<span class="keyword">return</span> explode(s, n)</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="keyword">if</span> n &lt; <span class="number">0</span> &#123;</span><br><span class="line">		n = Count(s, sep) + <span class="number">1</span></span><br><span class="line">	&#125;</span><br><span class="line">	c := sep[<span class="number">0</span>]</span><br><span class="line">	start := <span class="number">0</span></span><br><span class="line">	a := <span class="built_in">make</span>([]<span class="typename">string</span>, n)</span><br><span class="line">	na := <span class="number">0</span></span><br><span class="line">	<span class="keyword">for</span> i := <span class="number">0</span>; i+<span class="built_in">len</span>(sep) &lt;= <span class="built_in">len</span>(s) &amp;&amp; na+<span class="number">1</span> &lt; n; i++ &#123;</span><br><span class="line">		<span class="keyword">if</span> s[i] == c &amp;&amp; (<span class="built_in">len</span>(sep) == <span class="number">1</span> || s[i:i+<span class="built_in">len</span>(sep)] == sep) &#123;</span><br><span class="line">			a[na] = s[start : i+sepSave]</span><br><span class="line">			na++</span><br><span class="line">			start = i + <span class="built_in">len</span>(sep)</span><br><span class="line">			i += <span class="built_in">len</span>(sep) - <span class="number">1</span></span><br><span class="line">		&#125;</span><br><span class="line">	&#125;</span><br><span class="line">	a[na] = s[start:]</span><br><span class="line">	<span class="keyword">return</span> a[<span class="number">0</span> : na+<span class="number">1</span>]</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>打印出时间,发现采用lastIndex要比split的方式要快一些.</p>
+<h3 id="直接上代码">直接上代码</h3><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> (</span><br><span class="line"><span class="string">"log"</span></span><br><span class="line"><span class="string">"strings"</span></span><br><span class="line">	<span class="string">"time"</span></span><br><span class="line">)</span><br><span class="line"></span><br><span class="line"><span class="keyword">func</span> main()  &#123;</span><br><span class="line">	name := <span class="string">"a.txh.doc"</span></span><br><span class="line">	t := time.Now()</span><br><span class="line">	<span class="keyword">for</span> i:=<span class="number">0</span>;i&lt;<span class="number">1000</span>;i++&#123;</span><br><span class="line">		split(name)</span><br><span class="line">	&#125;</span><br><span class="line">	log.Println(time.Now().Sub(t))</span><br><span class="line"></span><br><span class="line">	t1 := time.Now()</span><br><span class="line">	<span class="keyword">for</span> i:=<span class="number">0</span>;i&lt;<span class="number">1000</span>;i++&#123;</span><br><span class="line">		lastIndex(name)</span><br><span class="line">	&#125;</span><br><span class="line">	log.Println(time.Now().Sub(t1))</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]>
+    
+    </summary>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/tags/golang/"/>
+    
+      <category term="小技巧" scheme="http://sugeladi.github.io/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/categories/golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[换个新皮肤]]></title>
+    <link href="http://sugeladi.github.io/2016/01/28/%E6%8D%A2%E4%B8%AA%E6%96%B0%E7%9A%AE%E8%82%A4/"/>
+    <id>http://sugeladi.github.io/2016/01/28/换个新皮肤/</id>
+    <published>2016-01-28T06:11:17.000Z</published>
+    <updated>2016-01-28T06:38:35.000Z</updated>
+    <content type="html"><![CDATA[<p>  今天看到了<a href="http://zipperary.com" title="zippera" target="_blank" rel="external">zippera</a> 的博客,很喜欢这种清新简单风格,并且作者自己也写了一个主题<a href="https://github.com/zippera/lightum" title="lightum" target="_blank" rel="external">lightum</a> ,很不错.<br>  这次新添加了左上方github/微博/分享,亮点就是这个<strong>high一下</strong>,很好玩,你也来试试吧~</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>  今天看到了<a href="http://zipperary.com" title="zippera" target="_blank" rel="external">zippera</a> 的博客,很喜欢这种清新简单风格,并且作者自己也写了一个主题<a href="ht]]>
+    </summary>
+    
+      <category term="hexo" scheme="http://sugeladi.github.io/tags/hexo/"/>
+    
+      <category term="hexo" scheme="http://sugeladi.github.io/categories/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[HTTP/2新特性浅析]]></title>
+    <link href="http://sugeladi.github.io/2016/01/21/HTTP-2%E6%96%B0%E7%89%B9%E6%80%A7%E6%B5%85%E6%9E%90/"/>
+    <id>http://sugeladi.github.io/2016/01/21/HTTP-2新特性浅析/</id>
+    <published>2016-01-21T03:30:26.000Z</published>
+    <updated>2016-01-21T03:45:53.000Z</updated>
+    <content type="html"><![CDATA[<p>文章出处:<a href="http://io.upyun.com/2015/05/13/http2" target="_blank" rel="external">http://io.upyun.com/2015/05/13/http2</a></p>
+<h3 id="HTTP/2_源自_SPDY/2">HTTP/2 源自 SPDY/2</h3><h4 id="SPDY_系列协议由谷歌开发，于_2009_年公开。它的设计目标是降低_50%_的页面加载时间。当下很多著名的互联网公司，例如百度、淘宝、UPYUN_都在自己的网站或_APP_中采用了_SPDY_系列协议（当前最新版本是_SPDY/3-1），因为它对性能的提升是显而易见的。主流的浏览器（谷歌、火狐、Opera）也都早已经支持_SPDY，它已经成为了工业标准，HTTP_Working-Group_最终决定以_SPDY/2_为基础，开发_HTTP/2。">SPDY 系列协议由谷歌开发，于 2009 年公开。它的设计目标是降低 50% 的页面加载时间。当下很多著名的互联网公司，例如百度、淘宝、UPYUN 都在自己的网站或 APP 中采用了 SPDY 系列协议（当前最新版本是 SPDY/3.1），因为它对性能的提升是显而易见的。主流的浏览器（谷歌、火狐、Opera）也都早已经支持 SPDY，它已经成为了工业标准，HTTP Working-Group 最终决定以 SPDY/2 为基础，开发 HTTP/2。</h4><h2 id="<!-more->"><a id="more"></a></h2><p>但是，HTTP/2 跟 SPDY 仍有不同的地方，主要是以下两点：</p>
+<p>HTTP/2 支持明文 HTTP 传输，而 SPDY 强制使用 HTTPS<br>HTTP/2 消息头的压缩算法采用 HPACK，而非 SPDY 采用的 DEFLATE</p>
+<h2 id="HTTP/2_的优势">HTTP/2 的优势</h2><h4 id="相比_HTTP/1-x，HTTP/2_在底层传输做了很大的改动和优化：">相比 HTTP/1.x，HTTP/2 在底层传输做了很大的改动和优化：</h4><ol>
+<li>HTTP/2 采用二进制格式传输数据，而非 HTTP/1.x 的文本格式。二进制格式在协议的解析和优化扩展上带来更多的优势和可能。   </li>
+<li>HTTP/2 对消息头采用 HPACK 进行压缩传输，能够节省消息头占用的网络的流量。而 HTTP/1.x 每次请求，都会携带大量冗余头信息，浪费了很多带宽资源。头压缩能够很好的解决该问题。</li>
+<li>多路复用，直白的说就是所有的请求都是通过一个 TCP 连接并发完成。HTTP/1.x 虽然通过 pipeline 也能并发请求，但是多个请求之间的响应会被阻塞的，所以 pipeline 至今也没有被普及应用，而 HTTP/2 做到了真正的并发请求。同时，流还支持优先级和流量控制。</li>
+<li>Server Push：服务端能够更快的把资源推送给客户端。例如服务端可以主动把 JS 和 CSS 文件推送给客户端，而不需要客户端解析 HTML 再发送这些请求。当客户端需要的时候，它已经在客户端了。</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>文章出处:<a href="http://io.upyun.com/2015/05/13/http2">http://io.upyun.com/2015/05/13/http2</a></p>
+<h3 id="HTTP/2_源自_SPDY/2">HTTP/2 源自 SPDY/2</h3><h4 id="SPDY_系列协议由谷歌开发，于_2009_年公开。它的设计目标是降低_50%_的页面加载时间。当下很多著名的互联网公司，例如百度、淘宝、UPYUN_都在自己的网站或_APP_中采用了_SPDY_系列协议（当前最新版本是_SPDY/3-1），因为它对性能的提升是显而易见的。主流的浏览器（谷歌、火狐、Opera）也都早已经支持_SPDY，它已经成为了工业标准，HTTP_Working-Group_最终决定以_SPDY/2_为基础，开发_HTTP/2。">SPDY 系列协议由谷歌开发，于 2009 年公开。它的设计目标是降低 50% 的页面加载时间。当下很多著名的互联网公司，例如百度、淘宝、UPYUN 都在自己的网站或 APP 中采用了 SPDY 系列协议（当前最新版本是 SPDY/3.1），因为它对性能的提升是显而易见的。主流的浏览器（谷歌、火狐、Opera）也都早已经支持 SPDY，它已经成为了工业标准，HTTP Working-Group 最终决定以 SPDY/2 为基础，开发 HTTP/2。</h4><h2 id="<!-more->">]]>
+    
+    </summary>
+    
+      <category term="http2" scheme="http://sugeladi.github.io/tags/http2/"/>
+    
+      <category term="http" scheme="http://sugeladi.github.io/categories/http/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[golang小技巧]]></title>
+    <link href="http://sugeladi.github.io/2015/11/13/golang%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <id>http://sugeladi.github.io/2015/11/13/golang小技巧/</id>
+    <published>2015-11-13T08:42:25.000Z</published>
+    <updated>2016-01-28T07:18:57.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="小提示">小提示</h3><h5 id="对于这样的代码_：">对于这样的代码 ：</h5><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">file, err := os.Open(<span class="string">"hx.txt"</span>)</span><br><span class="line"><span class="keyword">defer</span> file.Close()</span><br><span class="line"><span class="keyword">if</span> err != <span class="constant">nil</span> &#123;</span><br><span class="line">    ...  </span><br><span class="line">    <span class="keyword">return</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<p>当文件 studygolang.txt 不存在或找不到时，file.Close()会panic，因为file是nil。因此，应该将defer file.Close()放在错误检查之后。<br>应该这样写：<br><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">file, err := os.Open(<span class="string">"hx.txt"</span>)</span><br><span class="line"><span class="keyword">if</span> err != <span class="constant">nil</span> &#123;</span><br><span class="line">    ...</span><br><span class="line">    <span class="keyword">return</span></span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">defer</span> file.Close()</span><br></pre></td></tr></table></figure></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="小提示">小提示</h3><h5 id="对于这样的代码_：">对于这样的代码 ：</h5><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">file, err := os.Open(<span class="string">"hx.txt"</span>)</span><br><span class="line"><span class="keyword">defer</span> file.Close()</span><br><span class="line"><span class="keyword">if</span> err != <span class="constant">nil</span> &#123;</span><br><span class="line">    ...  </span><br><span class="line">    <span class="keyword">return</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]>
+    
+    </summary>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/tags/golang/"/>
+    
+      <category term="小技巧" scheme="http://sugeladi.github.io/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+      <category term="小提示" scheme="http://sugeladi.github.io/tags/%E5%B0%8F%E6%8F%90%E7%A4%BA/"/>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/categories/golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[golang中使用mongodb中的sparse稀疏索引]]></title>
+    <link href="http://sugeladi.github.io/2015/10/23/golang%E4%B8%AD%E4%BD%BF%E7%94%A8mongodb%E4%B8%AD%E7%9A%84sparse%E7%A8%80%E7%96%8F%E7%B4%A2%E5%BC%95/"/>
+    <id>http://sugeladi.github.io/2015/10/23/golang中使用mongodb中的sparse稀疏索引/</id>
+    <published>2015-10-23T06:15:10.000Z</published>
+    <updated>2015-10-23T06:55:10.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="稀疏索引">稀疏索引</h3><p>“sparse”的作用就是当索引字段在文档中不存在，则不进入索引，从而避免唯一索引问题。</p>
+<h5 id="举个栗子，当我们有一个表user1，有mobile字段，在刚开始注册的时候,允许mobile为空，但对于mobile来说需要是unique的，这是就不能够允许多个用户存在了。这时如果加上sparse:true,就没有问题了。">举个栗子，当我们有一个表user1，有mobile字段，在刚开始注册的时候,允许mobile为空，但对于mobile来说需要是unique的，这是就不能够允许多个用户存在了。这时如果加上sparse:true,就没有问题了。</h5><a id="more"></a>
+<h5 id="直接看例子">直接看例子</h5><p><div bgcolor="#dddddd"></div></p>
+<pre><code>&gt; db.user1.insert({<span class="string">"name"</span>:<span class="string">"hx1"</span>,<span class="string">"mobile"</span>:<span class="number">13912345678</span>})
+WriteResult({ <span class="string">"nInserted"</span> : <span class="number">1</span> })
+&gt; db.user1.createIndex({mobile:<span class="number">1</span>},{unique:<span class="literal">true</span>})
+{
+    <span class="string">"createdCollectionAutomatically"</span> : <span class="literal">false</span>,
+    <span class="string">"numIndexesBefore"</span> : <span class="number">1</span>,
+    <span class="string">"numIndexesAfter"</span> : <span class="number">2</span>,
+    <span class="string">"ok"</span> : <span class="number">1</span>
+}
+&gt; db.user1.find()
+{ <span class="string">"_id"</span> : ObjectId(<span class="string">"5629d27de589416ab6babc4c"</span>), <span class="string">"name"</span> : <span class="string">"hx1"</span>, <span class="string">"mobile"</span> : <span class="number">13912345678</span> }
+</code></pre><p><br>这时候如果在插入就会出现duplicate</p>
+<pre><code>&gt; db.user1.<span class="keyword">insert</span>({<span class="string">"name"</span>:<span class="string">"hx2"</span>,<span class="string">"mobile"</span>:<span class="number">13912345678</span>})
+WriteResult({
+    <span class="string">"nInserted"</span> : <span class="number">0</span>,
+    <span class="string">"writeError"</span> : {
+        <span class="string">"code"</span> : <span class="number">11000</span>,
+        <span class="string">"errmsg"</span> : <span class="string">"E11000 duplicate key error index: asot.user1.$mobile_1 dup key: { : 13912345678.0 }"</span>
+    }
+})
+</code></pre><p>如果插入的mobile为空值,可以成功</p>
+<pre><code>&gt; db.user1.<span class="keyword">insert</span>({<span class="string">"name"</span>:<span class="string">"hx2"</span>})
+WriteResult({ <span class="string">"nInserted"</span> : <span class="number">1</span> })
+&gt; db.user1.find()
+{ <span class="string">"_id"</span> : ObjectId(<span class="string">"5629d50be589416ab6babc50"</span>), <span class="string">"name"</span> : <span class="string">"hx1"</span>, <span class="string">"mobile"</span> : <span class="number">13912345678</span> }
+{ <span class="string">"_id"</span> : ObjectId(<span class="string">"5629d52fe589416ab6babc52"</span>), <span class="string">"name"</span> : <span class="string">"hx2"</span> }
+</code></pre><p>当第二次再插入的时候就失败了</p>
+<pre><code>&gt; db.user1.<span class="keyword">insert</span>({<span class="string">"name"</span>:<span class="string">"hx2"</span>})
+WriteResult({
+    <span class="string">"nInserted"</span> : <span class="number">0</span>,
+    <span class="string">"writeError"</span> : {
+        <span class="string">"code"</span> : <span class="number">11000</span>,
+        <span class="string">"errmsg"</span> : <span class="string">"E11000 duplicate key error index: asot.user1.$mobile_1 dup key: { : null }"</span>
+    }
+})
+</code></pre><p>好，现在精彩的来了，使用sparse配合unique一起使用。<br>先把mobile的unique唯一索引删除，然后添加sparse配合unique共同索引</p>
+<pre><code>&gt; db.user1.dropIndex({mobile:<span class="number">1</span>})
+{ <span class="string">"nIndexesWas"</span> : <span class="number">2</span>, <span class="string">"ok"</span> : <span class="number">1</span> }
+&gt; db.user1.getIndexes()
+[
+    {
+        <span class="string">"v"</span> : <span class="number">1</span>,
+        <span class="string">"key"</span> : {
+            <span class="string">"_id"</span> : <span class="number">1</span>
+        },
+        <span class="string">"name"</span> : <span class="string">"_id_"</span>,
+        <span class="string">"ns"</span> : <span class="string">"asot.user1"</span>
+    }
+]
+&gt; db.user1.createIndex({mobile:<span class="number">1</span>},{unique:<span class="literal">true</span>,sparse:<span class="literal">true</span>})
+{
+    <span class="string">"createdCollectionAutomatically"</span> : <span class="literal">false</span>,
+    <span class="string">"numIndexesBefore"</span> : <span class="number">1</span>,
+    <span class="string">"numIndexesAfter"</span> : <span class="number">2</span>,
+    <span class="string">"ok"</span> : <span class="number">1</span>
+}
+&gt; db.user1.getIndexes()
+[
+    {
+        <span class="string">"v"</span> : <span class="number">1</span>,
+        <span class="string">"key"</span> : {
+            <span class="string">"_id"</span> : <span class="number">1</span>
+        },
+        <span class="string">"name"</span> : <span class="string">"_id_"</span>,
+        <span class="string">"ns"</span> : <span class="string">"asot.user1"</span>
+    },
+    {
+        <span class="string">"v"</span> : <span class="number">1</span>,
+        <span class="string">"unique"</span> : <span class="literal">true</span>,
+        <span class="string">"key"</span> : {
+            <span class="string">"mobile"</span> : <span class="number">1</span>
+        },
+        <span class="string">"name"</span> : <span class="string">"mobile_1"</span>,
+        <span class="string">"ns"</span> : <span class="string">"asot.user1"</span>,
+        <span class="string">"sparse"</span> : <span class="literal">true</span>
+    }
+]
+</code></pre><p>索引已经建好，这次在尝试插入空值</p>
+<pre><code>&gt; db.user1.find()
+{ <span class="string">"_id"</span> : ObjectId(<span class="string">"5629d50be589416ab6babc50"</span>), <span class="string">"name"</span> : <span class="string">"hx1"</span>, <span class="string">"mobile"</span> : 13912345678 }
+{ <span class="string">"_id"</span> : ObjectId(<span class="string">"5629d52fe589416ab6babc52"</span>), <span class="string">"name"</span> : <span class="string">"hx2"</span> }
+&gt; db.user1.insert({<span class="string">"name"</span>:<span class="string">"hx2"</span>})
+WriteResult({ <span class="string">"nInserted"</span> : 1 })
+&gt; db.user1.find()
+{ <span class="string">"_id"</span> : ObjectId(<span class="string">"5629d50be589416ab6babc50"</span>), <span class="string">"name"</span> : <span class="string">"hx1"</span>, <span class="string">"mobile"</span> : 13912345678 }
+{ <span class="string">"_id"</span> : ObjectId(<span class="string">"5629d52fe589416ab6babc52"</span>), <span class="string">"name"</span> : <span class="string">"hx2"</span> }
+{ <span class="string">"_id"</span> : ObjectId(<span class="string">"5629d708e589416ab6babc54"</span>), <span class="string">"name"</span> : <span class="string">"hx2"</span> }
+</code></pre><p>打工告成！</p>
+<p>谨记：对于golang来说,struct在映射mongodb表的时候，使用时需要添加 bson:”,omitempty”。 允许为空！</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="稀疏索引">稀疏索引</h3><p>“sparse”的作用就是当索引字段在文档中不存在，则不进入索引，从而避免唯一索引问题。</p>
+<h5 id="举个栗子，当我们有一个表user1，有mobile字段，在刚开始注册的时候,允许mobile为空，但对于mobile来说需要是unique的，这是就不能够允许多个用户存在了。这时如果加上sparse:true,就没有问题了。">举个栗子，当我们有一个表user1，有mobile字段，在刚开始注册的时候,允许mobile为空，但对于mobile来说需要是unique的，这是就不能够允许多个用户存在了。这时如果加上sparse:true,就没有问题了。</h5>]]>
+    
+    </summary>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/tags/golang/"/>
+    
+      <category term="mongodb" scheme="http://sugeladi.github.io/tags/mongodb/"/>
+    
+      <category term="sparse" scheme="http://sugeladi.github.io/tags/sparse/"/>
+    
+      <category term="mongodb" scheme="http://sugeladi.github.io/categories/mongodb/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[关于golang中defer你不知道的事]]></title>
+    <link href="http://sugeladi.github.io/2015/10/15/%E5%85%B3%E4%BA%8Egolang%E4%B8%ADdefer%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B/"/>
+    <id>http://sugeladi.github.io/2015/10/15/关于golang中defer你不知道的事/</id>
+    <published>2015-10-15T03:23:28.000Z</published>
+    <updated>2015-10-15T03:40:12.000Z</updated>
+    <content type="html"><![CDATA[<p>文章出处:<a href="http://www.xiaozhou.net/something-about-defer-2014-05-25.html" target="_blank" rel="external">http://www.xiaozhou.net/something-about-defer-2014-05-25.html</a></p>
+<h3 id="Golang中的defer关键字实现比较特殊的功能，按照官方的解释，defer后面的表达式会被放入一个列表中，在当前方法返回的时候，列表中的表达式就会被执行。一个方法中可以在一个或者多个地方使用defer表达式，这也是前面提到的，为什么需要用一个列表来保存这些表达式。在Golang中，defer表达式通常用来处理一些清理和释放资源的操作">Golang中的defer关键字实现比较特殊的功能，按照官方的解释，defer后面的表达式会被放入一个列表中，在当前方法返回的时候，列表中的表达式就会被执行。一个方法中可以在一个或者多个地方使用defer表达式，这也是前面提到的，为什么需要用一个列表来保存这些表达式。在Golang中，defer表达式通常用来处理一些清理和释放资源的操作</h3><h2 id="<!-more->"><a id="more"></a></h2><h1 id="defer表达式中变量的值在defer表达式被定义时就已经明确">defer表达式中变量的值在defer表达式被定义时就已经明确</h1><p>func a() {<br>    i := 0<br>    defer fmt.Println(i)<br>    i++<br>    return<br>}</p>
+<h3 id="上面的这段代码，defer表达式中用到了i这个变量，i在初始化之后的值为0，接着程序执行到defer表达式这一行，表达式所用到的i的值就为0了，接着，表达式被放入list，等待在return的时候被调用。所以，后面尽管有一个i++语句，仍然不能改变表达式_fmt-Println(i)的结果。所以，程序运行结束的时候，输出的结果是0而不是1。">上面的这段代码，defer表达式中用到了i这个变量，i在初始化之后的值为0，接着程序执行到defer表达式这一行，表达式所用到的i的值就为0了，接着，表达式被放入list，等待在return的时候被调用。所以，后面尽管有一个i++语句，仍然不能改变表达式 fmt.Println(i)的结果。所以，程序运行结束的时候，输出的结果是0而不是1。</h3><hr>
+<h1 id="defer表达式的调用顺序是按照先进后出的方式">defer表达式的调用顺序是按照先进后出的方式</h1><p>func b() {<br>    defer fmt.Print(1)<br>    defer fmt.Print(2)<br>    defer fmt.Print(3)<br>    defer fmt.Print(4)<br>}</p>
+<h3 id="defer表达式会被放入一个类似于栈(stack)的结构，所以调用的顺序是后进先出的。所以，上面这段代码输出的结果是4321而不是1234。在实际的编码中应该主意，程序后面的defer表达式会被优先执行。">defer表达式会被放入一个类似于栈(stack)的结构，所以调用的顺序是后进先出的。所以，上面这段代码输出的结果是4321而不是1234。在实际的编码中应该主意，程序后面的defer表达式会被优先执行。</h3><hr>
+<h1 id="defer表达式中可以修改函数中的命名返回值">defer表达式中可以修改函数中的命名返回值</h1><p>func c() (i int) {<br>    defer func() { i++ }()<br>    return 1<br>}</p>
+<h3 id="上面的示例程序，返回值变量名为i，在defer表达式中可以修改这个变量的值。所以，虽然在return的时候给返回值赋值为1，后来defer修改了这个值，让i自增了1，所以，函数的返回值是2而不是1。">上面的示例程序，返回值变量名为i，在defer表达式中可以修改这个变量的值。所以，虽然在return的时候给返回值赋值为1，后来defer修改了这个值，让i自增了1，所以，函数的返回值是2而不是1。</h3>]]></content>
+    <summary type="html">
+    <![CDATA[<p>文章出处:<a href="http://www.xiaozhou.net/something-about-defer-2014-05-25.html">http://www.xiaozhou.net/something-about-defer-2014-05-25.html</a></p>
+<h3 id="Golang中的defer关键字实现比较特殊的功能，按照官方的解释，defer后面的表达式会被放入一个列表中，在当前方法返回的时候，列表中的表达式就会被执行。一个方法中可以在一个或者多个地方使用defer表达式，这也是前面提到的，为什么需要用一个列表来保存这些表达式。在Golang中，defer表达式通常用来处理一些清理和释放资源的操作">Golang中的defer关键字实现比较特殊的功能，按照官方的解释，defer后面的表达式会被放入一个列表中，在当前方法返回的时候，列表中的表达式就会被执行。一个方法中可以在一个或者多个地方使用defer表达式，这也是前面提到的，为什么需要用一个列表来保存这些表达式。在Golang中，defer表达式通常用来处理一些清理和释放资源的操作</h3><h2 id="<!-more->">]]>
+    
+    </summary>
+    
+      <category term="defer" scheme="http://sugeladi.github.io/tags/defer/"/>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/tags/golang/"/>
+    
+      <category term="golang" scheme="http://sugeladi.github.io/categories/golang/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World 你好世界]]></title>
+    <link href="http://sugeladi.github.io/2015/10/15/hello-world/"/>
+    <id>http://sugeladi.github.io/2015/10/15/hello-world/</id>
+    <published>2015-10-15T03:22:11.000Z</published>
+    <updated>2015-10-15T03:22:11.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="欢迎光临">欢迎光临</h3><a id="more"></a>
+<p>欢迎光临,开始博客之旅~</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="欢迎光临">欢迎光临</h3>]]>
+    
+    </summary>
+    
+  </entry>
+  
+</feed>
