@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta property="wb:webmaster" content="c4677ec1063a75fb" />
   
-  <title>关于 | 苏格拉没有底</title>
+  <title>golang mysql 1461 and Invalid Connection | 苏格拉没有底</title>
   <meta name="author" content="star">
   
   <meta name="description" content="golang | java | angularjs">
@@ -14,7 +14,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <meta property="og:title" content="关于"/>
+  <meta property="og:title" content="golang mysql 1461 and Invalid Connection"/>
   <meta property="og:site_name" content="苏格拉没有底"/>
 
   
@@ -200,32 +200,51 @@
 </nav>
 <div class="clearfix"></div></header>
   <div id="content" class="inner">
-    <div id="main-col" class="alignleft"><div id="wrapper"><article class="page">
+    <div id="main-col" class="alignleft"><div id="wrapper"><article class="post">
+  
+    <div class="gallery">
+  <div class="photoset">
+    
+      <img src="">
+    
+  </div>
+  <div class="control">
+    <div class="prev"></div>
+    <div class="next"></div>
+  </div>
+</div>
   
   <div class="post-content">
     <header>
       
+        <div class="icon"></div>
+        <time datetime="2016-12-22T05:24:52.000Z"><a href="/2016/12/22/golang-mysql-1461-and-Invalid-Connection/">2016-12-22</a></time>
+      
       
   
-    <h1 class="title">关于</h1>
+    <h1 class="title">golang mysql 1461 and Invalid Connection</h1>
   
 
     </header>
     <div class="entry">
       
-        <ol>
-<li>java </li>
-<li>android </li>
-<li>gwt </li>
-<li>golang </li>
-</ol>
-
+        <h3 id="1-Invalid_Connection">1.Invalid Connection</h3><h5 id="go-mysql的连接池只有两个参数MaxIdleConns_与_MaxOpenConns">go-mysql的连接池只有两个参数MaxIdleConns 与 MaxOpenConns</h5><h5 id="golang使用mysql官方驱动时，用了mysql连接池(如果MaxIdleConns_与_MaxOpenConns不相等)，有时会看到大量的_statement-go:27:_Invalid_Connection_一番查询之后，发现底层驱动有这个警告，最好设置MaxIdleConns和MaxOpenConns相等。就不会有这个warning信息了，不过这个warning信息时无害的。如果有强迫症的同学，还是设置相等吧。GitHub地址">golang使用mysql官方驱动时，用了mysql连接池(如果MaxIdleConns 与 MaxOpenConns不相等)，有时会看到大量的  statement.go:27: Invalid Connection 一番查询之后，发现底层驱动有这个警告，最好设置MaxIdleConns和MaxOpenConns相等。就不会有这个warning信息了，不过这个warning信息时无害的。如果有强迫症的同学，还是设置相等吧。<a href="https://github.com/go-sql-driver/mysql/issues/185" target="_blank" rel="external">GitHub地址</a></h5><h3 id="2-Error_1461:_Can’t_create_more_than_max_prepared_stmt_count_statements_(current_value:_16382)">2.Error 1461: Can’t create more than max_prepared_stmt_count statements (current value: 16382)</h3><h5 id="这个需要注意，再使用了_Prepare_之后记得，返回的Stmt记得close()_另外在查询多列Query()返回的Rows_也要关闭">这个需要注意，再使用了 Prepare 之后记得，返回的Stmt记得close()  另外在查询多列Query()返回的Rows 也要关闭</h5>
       
     </div>
     <footer>
       
         
+  
+  <div class="categories">
+    <a href="/categories/golang-mysql/">golang mysql</a>
+  </div>
+
         
+  
+  <div class="tags">
+    <a href="/tags/golang-mysql/">golang mysql</a>
+  </div>
+
 <!-- Baidu Button BEGIN -->
 <script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"5","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","weixin","renren","tqq"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","weixin","renren","tqq"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
 <!-- Baidu Button END -->      
@@ -238,6 +257,8 @@
 
  <nav id="pagination" >
     
+    
+    <a href="/2016/08/26/iphone-忘记锁屏密码后z如果找回密码/" class="alignright next" >下一页</a>
     
     <div class="clearfix"></div>
 </nav>
