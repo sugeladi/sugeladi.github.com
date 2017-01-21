@@ -219,6 +219,59 @@
     <header>
       
         <div class="icon"></div>
+        <time datetime="2017-01-20T03:52:11.000Z"><a href="/2017/01/20/git-revert-和-git-reset-的区别/">2017-01-20</a></time>
+      
+      
+  
+    <h1 class="title"><a href="/2017/01/20/git-revert-和-git-reset-的区别/">git revert 和 git reset 的区别</a></h1>
+  
+
+    </header>
+    <div class="entry">
+      
+        <h3 id="主要用于会退git版本">主要用于会退git版本</h3><h5 id="在日常的工作中,我们偶尔会遇到需要在远程服务器上回退几个版本的需求,git_reset和gitrevert_都可以处理这类需求,个人比较推荐使用git_revert。">在日常的工作中,我们偶尔会遇到需要在远程服务器上回退几个版本的需求,git reset和gitrevert 都可以处理这类需求,个人比较推荐使用git revert。</h5><ul>
+<li><h6 id="git_reset_是删除本次提交，git_revert是撤销某次commit并且会把这个撤销动作当成一次新的commit-">git reset 是删除本次提交，git revert是撤销某次commit并且会把这个撤销动作当成一次新的commit.</h6></li>
+<li><h6 id="git_reset是把HEAD向后移动了一下，而git_revert是向前移动了一下">git reset是把HEAD向后移动了一下，而git revert是向前移动了一下</h6></li>
+<li><h6 id="git_reset时直接删除制定commit，而gitrevert是用新的commit来回滚之前的commit">git reset时直接删除制定commit，而gitrevert是用新的commit来回滚之前的commit</h6></li>
+</ul>
+<h4 id="1-git_reset">1.git reset</h4><p>git reset 处理本地提交很好用，直接使用.</p>
+<figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git <span class="operator"><span class="keyword">reset</span> <span class="comment">--hard commit_id //commit_id 版本号 本地代码回退  </span></span><br><span class="line">$ git push origin <span class="keyword">HEAD</span> <span class="comment">--force //强制提交到远程</span></span></span><br></pre></td></tr></table></figure>
+<p>或者</p>
+<figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git <span class="operator"><span class="keyword">reset</span> <span class="comment">--hard HEAR~1</span></span><br><span class="line">$ git push <span class="comment">--force //强制提交到远程</span></span></span><br></pre></td></tr></table></figure>
+<h4 id="2-git_revert">2.git revert</h4><figure class="highlight gradle"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git revert commit_id <span class="comment">//commit_id 版本号 本地代码回退</span></span><br><span class="line">$ git <span class="keyword">push</span></span><br></pre></td></tr></table></figure>
+      
+    </div>
+    <footer>
+      
+        
+        
+      
+      <div class="clearfix"></div>
+    </footer>
+  </div>
+</article>
+
+
+
+
+  <article class="post">
+  
+    <div class="gallery">
+  <div class="photoset">
+    
+      <img src="">
+    
+  </div>
+  <div class="control">
+    <div class="prev"></div>
+    <div class="next"></div>
+  </div>
+</div>
+  
+  <div class="post-content">
+    <header>
+      
+        <div class="icon"></div>
         <time datetime="2016-12-22T05:24:52.000Z"><a href="/2016/12/22/golang-mysql-1461-and-Invalid-Connection/">2016-12-22</a></time>
       
       
@@ -660,51 +713,6 @@
 
 
 
-  <article class="post">
-  
-    <div class="gallery">
-  <div class="photoset">
-    
-      <img src="">
-    
-  </div>
-  <div class="control">
-    <div class="prev"></div>
-    <div class="next"></div>
-  </div>
-</div>
-  
-  <div class="post-content">
-    <header>
-      
-        <div class="icon"></div>
-        <time datetime="2016-01-28T06:11:17.000Z"><a href="/2016/01/28/换个新皮肤/">2016-01-28</a></time>
-      
-      
-  
-    <h1 class="title"><a href="/2016/01/28/换个新皮肤/">换个新皮肤</a></h1>
-  
-
-    </header>
-    <div class="entry">
-      
-        <p>  今天看到了<a href="http://zipperary.com" title="zippera" target="_blank" rel="external">zippera</a> 的博客,很喜欢这种清新简单风格,并且作者自己也写了一个主题<a href="https://github.com/zippera/lightum" title="lightum" target="_blank" rel="external">lightum</a> ,很不错.<br>  这次新添加了左上方github/微博/分享,亮点就是这个<strong>high一下</strong>,很好玩,你也来试试吧~</p>
-
-      
-    </div>
-    <footer>
-      
-        
-        
-      
-      <div class="clearfix"></div>
-    </footer>
-  </div>
-</article>
-
-
-
-
 
 <nav id="pagination">
   
@@ -726,6 +734,8 @@
   <ul class="entry">
   
     <li><a href="/categories/ELK/">ELK</a><small>1</small></li>
+  
+    <li><a href="/categories/git/">git</a><small>1</small></li>
   
     <li><a href="/categories/golang/">golang</a><small>6</small></li>
   
