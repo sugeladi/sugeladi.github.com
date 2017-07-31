@@ -4,7 +4,7 @@
   <subtitle><![CDATA[应该是个程序员]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://sugeladi.github.io/"/>
-  <updated>2017-07-31T07:31:45.000Z</updated>
+  <updated>2017-07-31T09:08:20.000Z</updated>
   <id>http://sugeladi.github.io/</id>
   
   <author>
@@ -19,8 +19,9 @@
     <link href="http://sugeladi.github.io/2017/07/31/glide-%E5%A4%84%E7%90%86golang-org-x-net/"/>
     <id>http://sugeladi.github.io/2017/07/31/glide-处理golang-org-x-net/</id>
     <published>2017-07-31T07:22:51.000Z</published>
-    <updated>2017-07-31T07:31:45.000Z</updated>
-    <content type="html"><![CDATA[<h3 id="由于国内GWF得原因,导致使用glide引入golang-org/x_下得包的时候失败,经过查询,可以使用手动添加glide的cache来解决此问题">由于国内GWF得原因,导致使用glide引入golang.org/x 下得包的时候失败,经过查询,可以使用手动添加glide的cache来解决此问题</h3><h4 id="进入glide的cacha目录">进入glide的cacha目录</h4><figure class="highlight golang"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ cd ~/.glide/cache/src/</span><br><span class="line">$ mkdir https-golang.org-x-sys</span><br><span class="line">$ cp -r xxx ./ </span><br><span class="line">$ glide install ##然后就可以愉快的下载啦</span><br></pre></td></tr></table></figure>
+    <updated>2017-07-31T09:08:20.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="由于国内GWF得原因,导致使用glide引入golang-org/x_下得包的时候失败,经过查询,可以使用手动添加glide的cache来解决此问题">由于国内GWF得原因,导致使用glide引入golang.org/x 下得包的时候失败,经过查询,可以使用手动添加glide的cache来解决此问题</h3><h4 id="方式1使用mirror">方式1使用mirror</h4><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ rm -rf ~/.glide&#10;$ mkdir -p ~/.glide&#10;$ glide mirror set https://golang.org/x/mobile https://github.com/golang/mobile --vcs git&#10;$ glide mirror set https://golang.org/x/crypto https://github.com/golang/crypto --vcs git&#10;$ glide mirror set https://golang.org/x/net https://github.com/golang/net --vcs git&#10;$ glide mirror set https://golang.org/x/tools https://github.com/golang/tools --vcs git&#10;$ glide mirror set https://golang.org/x/text https://github.com/golang/text --vcs git&#10;$ glide mirror set https://golang.org/x/image https://github.com/golang/image --vcs git&#10;$ glide mirror set https://golang.org/x/sys https://github.com/golang/sys --vcs git</span><br></pre></td></tr></table></figure>
+<h4 id="方式2进入glide的cacha目录">方式2进入glide的cacha目录</h4><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ cd ~/.glide/cache/src/&#10;$ mkdir https-golang.org-x-sys&#10;$ cp -r xxx/* ./ &#10;$ glide install ##&#28982;&#21518;&#23601;&#21487;&#20197;&#24841;&#24555;&#30340;&#19979;&#36733;&#21862;</span><br></pre></td></tr></table></figure>
 <p>xxx代表自己已经下载好的源码 源码下载可以通过 <a href="https://www.golangtc.com/download/package" target="_blank" rel="external">golangtc</a> 进行下载.</p>
 ]]></content>
     <summary type="html">
